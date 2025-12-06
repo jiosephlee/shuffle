@@ -17,14 +17,14 @@ source "$(conda info --base)/etc/profile.d/conda.sh"
 conda activate "$HOME/.conda/envs/finetuning"
 
 # Default condition, can be overridden by passing an argument, e.g., sbatch run_experiment.slurm shuffled_para
-CONDITION=${1:-ordered}
+CONDITION=${1:-shuffled_para}
 
 echo "➤ RUNNING EXPERIMENT FOR CONDITION: $CONDITION"
 
 # Ensure output directory for logs exists
 mkdir -p logs
 
-python scripts/train/train.py \
+python train.py \
     --condition "$CONDITION" \
     --model_id allenai/Olmo-3-1025-7B \
     --data_dir data/medqa \
