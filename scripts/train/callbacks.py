@@ -29,54 +29,60 @@ class HeldOutEvalCallback(TrainerCallback):
         self.eval_datasets = eval_datasets 
         self.log_freq = log_freq
 
+    def on_train_begin(self, args, state, control, model, **kwargs):
+        self.perform_eval(state, model)
+
     def on_step_end(self, args, state, control, model, **kwargs):
         if state.global_step % self.log_freq == 0 and state.global_step > 0:
-            logger.info("Running Held-out Evaluation...")
-            model.eval()
-            
-            total_ppl = 0
-            n_books = len(self.eval_datasets)
-            
-            # Context length for sliding window
-            context_length = 2048
-            stride = context_length
+            self.perform_eval(state, model)
 
-            for i, text in enumerate(self.eval_datasets):
-                # Tokenize
-                tokens = self.tokenizer(text, return_tensors='pt', truncation=False, padding=False)['input_ids'][0]
-                
-                nlls = []
-                with torch.inference_mode():
-                    for j in range(0, tokens.size(-1), stride):
-                        begin_loc = max(j + stride - context_length, 0)
-                        end_loc = min(j + stride, tokens.size(-1))
-                        trg_len = end_loc - j
-                        
-                        input_ids = tokens[begin_loc:end_loc].to(model.device).unsqueeze(0)
-                        target_ids = input_ids.clone()
-                        target_ids[:, :-trg_len] = -100
-                        
-                        if input_ids.size(1) == 0: continue
+    def perform_eval(self, state, model):
+        logger.info("Running Held-out Evaluation...")
+        model.eval()
+        
+        total_ppl = 0
+        n_books = len(self.eval_datasets)
+        
+        # Context length for sliding window
+        context_length = 4096
+        stride = context_length
 
-                        outputs = model(input_ids, labels=target_ids)
-                        neg_log_likelihood = outputs.loss * trg_len
-                        nlls.append(neg_log_likelihood)
-                
-                if nlls:
-                    ppl = torch.exp(torch.stack(nlls).sum() / end_loc).item()
-                else:
-                    ppl = 0.0
+        for i, text in enumerate(self.eval_datasets):
+            # Tokenize
+            tokens = self.tokenizer(text, return_tensors='pt', truncation=False, padding=False)['input_ids'][0]
+            
+            nlls = []
+            with torch.inference_mode():
+                for j in range(0, tokens.size(-1), stride):
+                    begin_loc = max(j + stride - context_length, 0)
+                    end_loc = min(j + stride, tokens.size(-1))
+                    trg_len = end_loc - j
                     
-                total_ppl += ppl
-                # logger.info(f"Book {i+1} Perplexity: {ppl:.2f}")
+                    input_ids = tokens[begin_loc:end_loc].to(model.device).unsqueeze(0)
+                    target_ids = input_ids.clone()
+                    target_ids[:, :-trg_len] = -100
+                    
+                    if input_ids.size(1) == 0: continue
 
-            avg_ppl = total_ppl / n_books if n_books > 0 else 0
-            logger.info(f"Step {state.global_step}: Average Held-out Perplexity = {avg_ppl:.4f}")
+                    outputs = model(input_ids, labels=target_ids)
+                    neg_log_likelihood = outputs.loss * trg_len
+                    nlls.append(neg_log_likelihood)
             
-            if wandb.run:
-                wandb.log({"eval/heldout_perplexity": avg_ppl}, step=state.global_step)
-            
-            model.train()
+            if nlls:
+                ppl = torch.exp(torch.stack(nlls).sum() / end_loc).item()
+            else:
+                ppl = 0.0
+                
+            total_ppl += ppl
+            # logger.info(f"Book {i+1} Perplexity: {ppl:.2f}")
+
+        avg_ppl = total_ppl / n_books if n_books > 0 else 0
+        logger.info(f"Step {state.global_step}: Average Held-out Perplexity = {avg_ppl:.4f}")
+        
+        if wandb.run:
+            wandb.log({"eval/heldout_perplexity": avg_ppl}, step=state.global_step)
+        
+        model.train()
 
 class MedQAEvalCallback(TrainerCallback):
     def __init__(self, zero_shot_ds, few_shot_ds, tokenizer, log_freq=500):
@@ -115,26 +121,32 @@ class MedQAEvalCallback(TrainerCallback):
 
         return correct / total if total > 0 else 0
 
+    def on_train_begin(self, args, state, control, model, **kwargs):
+        self.perform_eval(state, model)
+
     def on_step_end(self, args, state, control, model, **kwargs):
         if state.global_step % self.log_freq == 0 and state.global_step > 0:
-            logger.info("Running MedQA Evaluation...")
-            model.eval()
+            self.perform_eval(state, model)
+
+    def perform_eval(self, state, model):
+        logger.info("Running MedQA Evaluation...")
+        model.eval()
+        
+        zs_acc = self.evaluate_ds(self.zero_shot_ds, model, "Zero-Shot MCQA", state)
+        fs_acc = self.evaluate_ds(self.few_shot_ds, model, "Few-Shot MCQA", state)
+        
+        if not self.logged_prompts:
+            self.logged_prompts = True
             
-            zs_acc = self.evaluate_ds(self.zero_shot_ds, model, "Zero-Shot MCQA", state)
-            fs_acc = self.evaluate_ds(self.few_shot_ds, model, "Few-Shot MCQA", state)
-            
-            if not self.logged_prompts:
-                self.logged_prompts = True
-                
-            logger.info(f"Step {state.global_step}: Zero-Shot Acc = {zs_acc:.4f}, Few-Shot Acc = {fs_acc:.4f}")
-            
-            if wandb.run:
-                wandb.log({
-                    "eval/medqa_zeroshot_acc": zs_acc,
-                    "eval/medqa_fewshot_acc": fs_acc
-                }, step=state.global_step)
-            
-            model.train()
+        logger.info(f"Step {state.global_step}: Zero-Shot Acc = {zs_acc:.4f}, Few-Shot Acc = {fs_acc:.4f}")
+        
+        if wandb.run:
+            wandb.log({
+                "eval/medqa_zeroshot_acc": zs_acc,
+                "eval/medqa_fewshot_acc": fs_acc
+            }, step=state.global_step)
+        
+        model.train()
 
 class AttentionEntropyCallback(TrainerCallback):
     def __init__(self, tokenizer, log_freq=100):
@@ -143,19 +155,25 @@ class AttentionEntropyCallback(TrainerCallback):
         # Dummy input for checking attention
         self.dummy_input = tokenizer("Medical reasoning requires attention.", return_tensors='pt')
 
+    def on_train_begin(self, args, state, control, model, **kwargs):
+        self.perform_eval(state, model)
+
     def on_step_end(self, args, state, control, model, **kwargs):
         if state.global_step % self.log_freq == 0 and state.global_step > 0:
-            model.eval()
-            inputs = self.dummy_input.to(model.device)
-            
-            with torch.inference_mode():
-                # Ensure output_attentions is True
-                outputs = model(**inputs, output_attentions=True)
-                attentions = outputs.attentions
-            
-            entropy_stats = calculate_attention_entropy(attentions)
-            
-            if wandb.run:
-                wandb.log(entropy_stats, step=state.global_step)
-            
-            model.train()
+            self.perform_eval(state, model)
+
+    def perform_eval(self, state, model):
+        model.eval()
+        inputs = self.dummy_input.to(model.device)
+        
+        with torch.inference_mode():
+            # Ensure output_attentions is True
+            outputs = model(**inputs, output_attentions=True)
+            attentions = outputs.attentions
+        
+        entropy_stats = calculate_attention_entropy(attentions)
+        
+        if wandb.run:
+            wandb.log(entropy_stats, step=state.global_step)
+        
+        model.train()
