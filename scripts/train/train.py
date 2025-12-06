@@ -144,14 +144,14 @@ def main():
     callbacks = []
     
     # Heldout Eval
-    callbacks.append(HeldOutEvalCallback(heldout_texts, tokenizer, log_freq=5 if args.test else 500))
+    callbacks.append(HeldOutEvalCallback(heldout_texts, tokenizer, log_freq=10))
     
     # MCQA Eval
-    callbacks.append(MedQAEvalCallback(zero_shot_ds, few_shot_ds, tokenizer, log_freq=5 if args.test else 500))
+    callbacks.append(MedQAEvalCallback(zero_shot_ds, few_shot_ds, tokenizer, log_freq=20))
     
     # Attention Entropy
     if args.turn_on_attention_tracking:
-        callbacks.append(AttentionEntropyCallback(tokenizer, log_freq=5 if args.test else 100))
+        callbacks.append(AttentionEntropyCallback(tokenizer, log_freq=20))
     
     # 5. Training Args (SFTConfig)
     sft_config = SFTConfig(
