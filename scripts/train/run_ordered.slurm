@@ -26,8 +26,6 @@ mkdir -p logs
 
 python train.py \
     --condition "$CONDITION" \
-    --model_id allenai/Olmo-3-1025-7B \
-    --data_dir data/medqa \
     --per_device_train_batch_size 16 \
     --gradient_accumulation_steps 4 \
     --num_train_epochs 5 \
