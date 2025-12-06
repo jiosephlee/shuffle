@@ -1,0 +1,121 @@
+ nevi may be sporadic or familial. The latter are important clinically because they identify individuals who
+
+Fig. 24.18 Possible steps in the development of melanocytic nevi. (A) Normal skin shows only scattered melanocytes. (B) Junctional nevus. (C) Compound nevus. (D) Intradermal nevus. (E) Intradermal nevus with extensive cellular senescence.
+
+Fig. 24.19 Melanocyticnevus.(A)Melanocyticneviarerelativelysmall,symmetric,anduniformlypigmented.(B)Anevuscomposedofmelanocytesthatlosepigmentationandbecomesmallerandmoredispersedastheyextendintothedermis—allsignsthatspeaktothebenignnatureoftheproliferation.
+
+have an increased risk of developing melanoma. As with conventional melanocytic nevi, activating RAS or BRAF mutations are commonly found in dysplastic nevi and are believed to have a pathogenic role.
+
+MORPHOLOGYDysplasticneviarelargerthanmostacquirednevi(oftenmorethan5mmacross)andmay number in the hundreds (
+
+Fig.
+
+24.20A ).Theyareflatmaculestoslightlyraisedplaques,witha“pebbly”surface.Theyusuallyhavevariablepigmentation(variegation)andirregularborders(
+
+Fig.24.20A , inset).
+
+Microscopically,dysplasticneviaremostlycompoundnevithatexhibitbotharchitecturalandcytologicevidenceofabnormalgrowth.Nevuscellnestswithintheepidermismaybeenlargedandexhibitabnormalfusionorcoalescencewithadjacentnests(bridging).Aspartofthisprocess,singlenevuscellsbegintoreplacethenormalbasalcelllayeralongthedermoepidermaljunction,producingso-called“lentiginous hyperplasia”(
+
+Fig.24.20B ).Cytologicatypiaconsistingofirregular,oftenangulated,nuclearcontoursandhyperchromasiaisfrequentlyobserved(
+
+Fig.24.20B-C ).Associatedalterationsalsooccurinthesuperficialdermis.Theseconsistofasparselymphocyticinfiltrate,releaseofmelaninpigmentthatisphagocytosedbydermalmacrophages(melaninincontinence),andlinearfibrosissurroundingepidermalnestsofmelanocytes.Thesedermalchangesareelementsofthehostresponsetotheselesions.
+
+Unlike ordinary nevi, dysplastic nevi have a tendency to occur on body surfaces not exposed to the sun as well as on sun-exposed sites. Familial dysplastic nevus syndrome is strongly associated with melanoma, as the lifetime risk for the development of melanoma in affected individuals is close to 100%. In sporadic cases, only individuals with 10 or more dysplastic nevi appear to be at an increased risk for melanoma. Transformation of dysplastic nevus to melanoma has been documented, both clinically and histologically. However, such cases are the exception, as most melanomas appear to arise de novo and not from a preexisting nevus. Thus, the likelihood that any particular nevus, dysplastic or otherwise, will develop into melanoma is low, and these lesions are best viewed as markers of melanoma risk.
+
+Fig. 24.20 Dysplasticnevus.(A)Numerousirregularnevionthebackofapatientwithdysplasticnevussyndrome.Thelesionsusuallyaregreaterthan5mmindiameterandhaveirregularbordersandvariablepigmentation(inset). (B)Compounddysplasticnevusfeaturingacentraldermalcomponentandanasymmetric“shoulder”ofexclusivelyjunctionalmelanocytes(lentiginoushyperplasia).Theformercorrespondstotheraised,morepigmentedcentralzoneseeninA (inset), andthelattercorrespondstothelesspigmentedflatperipheralrim.(C)Otherimportantfeaturesarecytologicatypia(irregular,dark-stainingnuclei)andcharacteristicparallelbandsoffibrosis.
+
+Melanoma is less common but much more deadly than basal or squamous cell carcinoma. Today, as a result of increased public awareness of the earliest signs of skin melanomas, most melanomas are cured surgically. Nonetheless, the incidence of these lesions has increased dramatically over the past several decades, at least in part as a result of increasing sun exposure and/or higher detection rates resulting from vigorous surveillance.
+
+As with other cutaneous malignancies, melanoma is mainly caused by UV light–induced DNA damage that leads to the stepwise acquisition of driver mutations. The incidence is highest in sun-exposed skin and in geographic locales such as Australia, where sun exposure is high and much of the population is fair-skinned. Intense intermittent exposure at an early age is particularly harmful. Hereditary predisposition also plays a role in an estimated 5% to 10% of cases, as already discussed under familial dysplastic nevus syndrome. For example, germ-line mutations in the CDKN2A locus (located on 9p21) are found in as many as 40% of the rare individuals who suffer from familial melanoma. This complex locus encodes two tumor suppressors: p16, a cyclin-dependent kinase inhibitor that regulates the G1-S transition of the cell cycle by maintaining the retinoblastoma (RB) tumor suppressor protein in its active state; and p14, which augments the activity of the p53 tumor suppressor by preventing its degradation.
+
+Key phases of melanoma development are marked by radial and vertical growth. The earliest recognizable phase of melanoma development is proposed to consist of lateral expansion of melanocytes along the dermoepidermal junction (lentiginous hyperplasia and lentiginous compound nevus;
+
+Fig. 24.21A-C ). This then progresses to the phase of melanoma in situ, which is marked by radial growth within the epidermis, often for a prolonged period (
+
+Fig.
+
+24.21D ). During this stage, melanoma cells do not have the capacity to invade and metastasize. With time, a vertical growth phase supervenes, in which the tumor grows downward into the deeper dermal layers as an expansile mass lacking cellular maturation (
+
+Fig. 24.21E ). This event often is heralded by the development of a nodule in a previously flat lesion and correlates with the emergence of metastatic  potential.
+
+DNA sequencing of familial and sporadic cases, including cases that appear to have arisen from benign nevi, has provided important insights into the molecular pathogenesis of melanoma (
+
+Fig. 24.22 ). The initiating event appears to be an activating mutation in BRAF or (less commonly) RAS. In the vast majority of cases, this produces only a benign nevus unless other mutations are superimposed. Sequencing of nevi with “atypical” morphologic features suggestive of melanoma as well as melanomas in the radial phase of growth (melanoma in situ) has shown that they commonly harbor mutations that activate the expression of telomerase, which is proposed to serve as an antidote to senescence (the usual fate of benign nevi). With additional mutations or epigenetic aberrations that lead to loss of
+
+Fig. 24.21 Possible steps in the development of melanoma. (A) Normal skin shows only scattered melanocytes. (B) Lentiginous melanocytic hyperplasia. (C) Lentiginous compound nevus with abnormal architecture and cytologic features (dysplastic nevus). (D) Early or radial growth phase melanoma (large dark cells in epidermis) arising in a nevus. (E) Melanoma in vertical growth phase with metastatic potential. Note that no melanocytic nevus precursor is identified in most cases of melanoma. They are believed to arise de novo, perhaps all using the same pathway.
+
+Telomerase Loss of Loss of activation p16 p53, PTEN
+
+Melanoma, Melanoma, (e.g., nevus) atypia
+
+Fig. 24.22 Molecularevolutionofcutaneousmelanoma.Themostimportantdrivermutationsandtheoverallmutationalburden(pointmutationsandgenomiccopy-numbervariations)atvarioushistologicphasesofmelanocyticlesionprogressionareindicated.Notethatasthetumormetastasizestointernalsites,UVlight–inducedDNAdamageleadingtopointsubstitutionsceases,andcopynumberchangesrelatedtoaneuploidyincrease.
+
+CDNK2A and its encoded tumor suppressor p16, the tumor shifts to the invasive vertical phase of growth. Throughout this cutaneous phase of tumor evolution, exposure to UV light adds to the mutational burden and increases the chances of tumor progression. Finally, with additional mutations in genes such as tumor suppressors TP53 and PTEN, the tumor acquires the capacity for metastasis. This phase is marked by the appearance of aneuploidy and genomic copy number alterations, which add to the genetic heterogeneity of the evolving tumor.
+
+By contrast, the less common melanomas that arise in non–sun-exposed acral and mucosal sites follow different molecular courses. The most common initiating mutation in these tumors is a gain-of-function mutation in the KIT receptor tyrosine kinase. Similarly, melanomas arising the uvea of the eye also have a distinct set of driver gene mutations, most notably mutually exclusive mutations that activate the GTP-binding proteins GNAQ or GNA11.
+
+In addition, it has long been speculated that melanomas express neoantigens that should be subject to recognition by the immune system. It follows that for melanoma to develop, tumor cells must acquire the ability to either suppress or evade the host immune response. The importance of immune evasion has been proven by the response of many advanced melanomas to immune checkpoint inhibitors, agents that unleash muzzled melanoma-specific T cells, allowing them to attack the tumor (described later).
+
+MORPHOLOGYUnlikebenignnevi,melanomasoftenexhibitstriking variations in pigmentation, includingshadesofblack,brown,red,darkblue,andgray(
+
+Fig.24.23A ).Theborders are irregular andoften“notched.”Microscopically,malignantcellsgrowaspoorlyformednestsorasindividualcellsatalllevelsoftheepidermis(pagetoidspread)andinexpansiledermalnodules;theseconstitutetheradialandverticalgrowthphases,respectively(
+
+Fig.24.23B-C ).Ofnote,superficialspreadingmelanomasareoftenassociatedwithabrisklymphocyticinfiltrate(
+
+Fig.24.23B ),afeaturethatmayreflectahostresponsetotumor-specificantigens.Increasing thickness strongly correlates with worse biologic behavior of melanomas (termed Breslow thickness). Byrecordingandusingtheseandothervariablesinaggregate,accurateprognosticationispossible.
+
+Individualmelanomacellsusuallyareconsiderablylargerthannevuscells.Theyhavelargenucleiwithirregularcontours,chromatinthatischaracteristicallyclumpedattheperipheryofthenuclearmembrane,andprominent“cherryred”eosinophilicnucleoli(
+
+Fig.24.23D ).Immunohistochemicalstainscanbehelpfulinidentifyingmetastaticdeposits(
+
+Fig.24.23D , inset).
+
+Although most of these lesions arise in the skin, they also may occur in the oral and anogenital mucosal surfaces, the esophagus, the meninges, and the eye. The following discussion applies to cutaneous melanomas.
+
+Melanoma of the skin usually is asymptomatic, although pruritus may be an early manifestation. The most important clinical sign is a change in the color or size of a pigmented lesion. The main clinical warning signs are as follows: 1.
+
+Rapid enlargement of a preexisting nevus 2.
+
+3.
+
+Development of a new pigmented lesion during adult life 4.
+
+Irregularity of the borders of a pigmented lesion 5.
+
+Variegation of color within a pigmented lesion
+
+These principles are expressed in the so-called “ABCs” of melanoma: asymmetry, border, color, diameter, and evolution (change of an existing nevus). It is vitally important to recognize melanomas and intervene as rapidly as possible. The vast majority of superficial lesions are curable surgically, while metastatic melanoma has a very poor prognosis.
+
+The probability of metastasis is predicted by measuring the depth of invasion in millimeters of the vertical growth phase nodule from the top of the granular cell layer of the overlying epidermis (Breslow thickness). Metastasis risk also is increased in tumors with a high mitotic rate and in those that fail to induce a local immune response. When metastases occur, they involve not only regional lymph nodes but also liver, lungs, brain, and virtually any other site that can be seeded hematogenously. Sentinel lymph node biopsy (of the first draining node[s] of a primary melanoma) at the time of surgery provides additional information on biologic aggressiveness.
+
+Fig. 24.23 Melanoma.(A)Lesionstendtobelargerthannevi,withirregularcontoursandvariablepigmentation.Macularareasindicatesuperficial(radial)growth,whileelevatedareasindicatedermalinvasion(verticalgrowth).(B)Radialgrowthphase,withspreadofnestedandsinglemelanomacellswithintheepidermis.(C)Verticalgrowthphase,withnodularaggregatesofinfiltratingtumorcellswithinthedermis.(D)Melanomacellswithhyperchromaticirregularnucleiofvaryingsizethathaveprominentnucleoli.Anatypicalmitoticfigureispresentinthecenterofthefield).Theinset showsasentinellymphnodecontainingatinyclusterofmetastaticmelanoma(arrow), detectedbystainingforthemelanocyticmarkerHMB-45.
+
+Agents that selectively inhibit mutant BRAF and KIT have produced dramatic responses in patients with metastatic tumors with BRAF and KIT mutations, respectively, an encouraging development in a previously hopeless disease. More recently, immune checkpoint inhibitors have been shown to be effective at stabilizing metastatic disease and in some instances causing remarkable tumor regression and even clinical remissions. Immune checkpoint inhibitors are antibodies that interfere with the function of proteins found on the surface of T lymphocytes that abrogate cytotoxic T cell responsiveness. By blocking these pathways, checkpoint inhibitors reactivate the host T-cell response, which otherwise is held at bay. Current efforts are focused on building upon these successes by using combinations of different checkpoint inhibitors, as well as checkpoint inhibitors together with other targeted therapies such as BRAF inhibitors.
+
+MELANOCYTICLESIONS,BENIGNANDMALIGNANT
+
+Mostmelanocytic nevi haveactivatingmutationsinBRAF orlessoftenNRAS, butthevastmajorityneverundergoesmalignanttransformation.
+
+Mostsporadicdysplastic nevi arebestregardedasmarkersofmelanomariskratherthanpremalignantlesions.Theyarecharacterizedbyarchitecturaldisorderandcytologicatypia.
+
+Melanoma isahighlyaggressivemalignancy;tumorsonlyafewmillimetersinthicknesscangiverisetodeadlymetastases.
+
+Inmostcases,melanomaprogressesfromanintraepithelial(insitu)toaninvasive(dermal)form.Characteristicsofthedermaltumorsuchasdepthofinvasionandmitoticactivitycorrelatewithsurvival.
+
+Bastian BC: The molecular pathology of melanoma: an integrated taxonomy of melanocytic neoplasia, Ann Rev Pathol 9:239, 2014. [A modified classification of melanoma based on both clinical and genetic features. Such molecular classification schemes are critical for progress in targeted therapy.]
+
+Cancer Genome Atlas Network: Genomic classification of cutaneous melanoma, Cell 161:1681, 2015. [A genomic study of cutaneous melanoma that highlights the different molecular subtypes and common pathogenic pathways.]
+
+Elder DE: Dysplastic nevi: an update, Histopathology 56:112, 2010. [A balanced presentation of the histology and pathogenesis of dysplastic nevi and their relationship to melanoma.]
+
+Epstein EH: Basal cell carcinomas: attack of the hedgehog, Nat Rev Cancer 8:743, 2008. [A succinct review of the epidemiology, clinical presentation, molecular pathogenesis, and novel treatment options for basal cell carcinoma.]
+
+Nestle FO, Kaplan DH, Barker J: Psoriasis, N Engl J Med 361:496, 2009. [A discussion of the pathogenesis, clinical features, and targeted treatment options for psoriasis.]
+
+Ratushny V, Gober MD, Hick R, et al: From keratinocyte to cancer: the pathogenesis and modeling of cutaneous squamous cell carcinoma, J Clin Invest 122:464, 2012. [Models of human epidermal carcinogenesis indicate that multiple mutations in specific pathways are required for malignant transformation.]
+
+Ujiie H, Shibaki A, Nishie W, et al: What’s new in bullous pemphigoid, J Dermatol 37:194, 2010. [A review of bullous pemphigoid pathogenesis.]
+
+Wargo JA, Cooper ZA, Flaherty KT: Universes collide: combining immunotherapy with targeted therapy for cancer, Cancer Discov 4:1377, 2014. [A presentation of melanoma signaling pathways with therapeutic interventions and the role of the immune system.]
+
+Yokoyama T, Amagai M: Immune dysregulation of pemphigus in humans and mice, J Dermatol 37:205, 2010. [A review of immune disturbances that may underlie pemphigus.] 

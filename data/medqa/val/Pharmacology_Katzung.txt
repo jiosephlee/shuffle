@@ -1,0 +1,155 @@
+otypes ing high risk of A/C/Y/W-135
+
+Pneumococcal Bacterial Intramuscular or See Table A–2 None 1. For all children conjugate polysaccharides subcutaneous 2. Adults with immunocompromising conditions, asplenia, cerebrospinal vaccine conjugated to fluid leaks, or cochlear implants protein 3. Adults ≥65 years who have not been vaccinated previously Pneumococcal Bacterial Intramuscular or One dose Repeat after 1. Adults ≥65 years polysaccharide polysaccharides of subcutaneous 5 years in 2. Persons at increased risk for pneumococcal disease or its complications
+
+Poliovirus Inactivated Subcutaneous See Table A–2 for childhood One-time booster vaccine, viruses of all three schedule. Adults: Two doses dose for adults at inactivated (IPV) serotypes 4–8 weeks apart, and a third dose increased risk of 6–12 months after the second exposure
+
+Rabies Inactivated virus Intramuscular Preexposure: Three doses at days Serologic testing 0, 7, and 21 or 28 every 6 months to 2 years in per-
+
+Postexposure: Four doses at days sons at high risk 0, 3, 7, and 14; immunosuppressed patients should receive a 5th dose at day 28 1. For all children 2. Previously unvaccinated adults at increased risk for occupational or travel exposure to polioviruses 1.
+
+Preexposure prophylaxis in persons at risk for contact with rabies virus 2.
+
+Postexposure prophylaxis (administer with rabies immune globulin in previously unvaccinated individuals)
+
+Tetanus-Toxoids Intramuscular Two doses 4–8 weeks apart, and a Every 10 years 1. All adults diphtheria third dose 6–12 months after the 2. Postexposure prophylaxis if >5 years has passed since last dose
+
+TABLE A–1 Materials commonly used for active immunization in the United States.1 (Continued)
+
+Tetanus, diph-Toxoids and inac-Intramuscular Substitute one dose of Tdap for Td None All adults; pregnant women should receive a dose with each theria, pertussis tivated bacterial pregnancy (preferred during 27–36 weeks of gestation) (Tdap) components
+
+Typhoid, Ty21a Live bacteria Oral Four doses administered every Four doses every Risk of exposure to typhoid fever oral
+
+Typhoid, Bacterial Intramuscular One dose Every 2 years Risk of exposure to typhoid fever Vi capsular polysaccharide polysaccharide
+
+Varicella Live virus Subcutaneous Two doses 4–8 weeks apart in Unknown 1. For all children 2. Persons past their 13th birthday without a history of varicella infection 3. Postexposure prophylaxis in susceptible persons
+
+Yellow fever Live virus Subcutaneous One dose 10 years to 10 days Every 10 years 1. Laboratory personnel who may be exposed to yellow fever virus before travel 2. Travelers to areas where yellow fever occurs
+
+Zoster Live virus Subcutaneous One dose None All adults ≥60 years of age 1Dosages for the specific product, including variations for age, are best obtained from the manufacturer’s package insert. 2One dose unless otherwise indicated. 3Three Hib conjugate vaccines are available for use: (1) oligosaccharide conjugate Hib vaccine (HbOC), (2) polyribosylribitol phosphate-tetanus toxoid conjugate (PRP-T), and (3) Haemophilus influenzae type b conjugate vaccine (meningococcal protein conjugate) (PRP-OMP).
+
+4Three HPV vaccines are available for use: (1) quadrivalent vaccine (HPV4) and (2) 9-valent vaccine (HPV9) for the prevention of cervical, vaginal, and vulvar cancers (in females) and genital warts (in males and females), and (3) bivalent vaccine (HPV2) for the prevention of cervical cancers in females.
+
+5Td is tetanus and diphtheria toxoids for use in persons ≥7 years of age (contains less diphtheria toxoid than DPT and DT). DT is tetanus and diphtheria toxoids for use in persons <7 years of age (contains the same amount of diphtheria toxoid as DPT).
+
+TABLE A–2 Recommended routine childhood immunization schedule.
+
+1Three Hib conjugate vaccines are available for use: (1) oligosaccharide conjugate Hib vaccine (HbOC), (2) polyribosylribitol phosphate-tetanus toxoid conjugate (PRP-T), and (3) Haemophilus influenzae type b conjugate vaccine (meningococcal protein conjugate) (PRP-OMP). Children immunized with PRP-OMP at 2 and 4 months of age do not require a dose at 6 months of age. PRP-T should only be used for the booster dose in children aged 12–15 months.
+
+2Two RV vaccines are available for use: (1) RV-1 (Rotarix) monovalent live, oral, human attenuated rotavirus vaccine is approved for a two-dose series, and (2) RV-5 (RotaTeq) pentavalent live, oral, human-bovine reassortant rotavirus vaccine is approved for a three-dose series.
+
+3Three HPV vaccines are available for use: (1) quadrivalent vaccine (HPV4) and (2) 9-valent vaccine (HPV9) for the prevention of cervical, vaginal, and vulvar cancers (in females) and genital warts (in males and females), and (3) bivalent vaccine (HPV2) for the prevention of cervical cancers in females.
+
+Adapted from MMWR Morb Mortal Wkly Rep 2013;62(Suppl 1).
+
+hypersensitivity reactions to immune globulin that may limit therapy. Conventional immune globulin contains aggregates of IgG; it will cause severe reactions if given intravenously. However, if the passively administered antibodies are derived from animal sera, hypersensitivity reactions ranging from anaphylaxis to serum sickness may occur. Highly purified immunoglobulins, especially from rodents or lagomorphs, are the least likely to cause reactions. To avoid anaphylactic reactions, tests for hypersensitivity to the animal serum must be performed. If an alternative preparation is not available and administration of the specific antibody is deemed essential, desensitization can be carried out.
+
+Antibodies derived from human serum not only avoid the risk of hypersensitivity reactions but also have a much longer half-life in humans (about 23 days for IgG antibodies) than those from animal sources (5–7 days or less). Consequently, much smaller doses of human antibody can be administered to provide therapeutic concentrations for several weeks. These advantages point to the desirability of using human antibodies for passive protection
+
+TABLE A–3 Materials available for passive immunization.1
+
+Black widow Antivenin (Latrodectus One vial (6000 units) IV or IM. Some For persons with hypertensive cardiovascular disease spider bite mactans), equine patients may require a repeat dose. or aged <16 or >60 years.
+
+Bone marrow Immune globulin (intra-500 mg/kg IV on days 7 and 2 prior to Prophylaxis to decrease the risk of infection, interstitransplantation venous [IV])2 transplantation and then once weekly tial pneumonia, and acute graft-versus-host disease through day 90 after transplantation. in adults undergoing bone marrow transplantation.
+
+Botulism Botulism antitoxin hep-Consult the CDC.3 Treatment of symptomatic botulism. Available from tavalent equine, Types the CDC.3 Incidence of serum reactions is <1%. A–G
+
+Botulism immune 75 mg/kg IV. For the treatment of patients <1 year of age with globulin (IV) infant botulism caused by toxin type A or B.
+
+Chronic Immune globulin (IV)2 400 mg/kg IV every 3–4 weeks. Dosage CLL patients with hypogammaglobulinemia and a lymphocytic should be adjusted upward if bacterial history of at least one serious bacterial infection. leukemia (CLL) infections occur.
+
+Cytomegalovi-Cytomegalovirus Consult the manufacturer’s dosing Prophylaxis of CMV infection in bone marrow, kidney, rus (CMV) immune globulin (IV) recommendations. liver, lung, pancreas, and heart transplant recipients.
+
+Diphtheria Diphtheria antitoxin, 20,000–100,000 units IV or IM Early treatment of respiratory diphtheria. Available equine depending on the severity and duration from the CDC.3 Anaphylactic reactions in ≥7% of of illness. adults and serum reactions in ≥5–10% of adults.
+
+Hepatitis A Immune globulin (intra-Preexposure prophylaxis: 0.02 mL/kg muscular [IM]) IM for anticipated risk of ≥3 months, 0.06 mL/kg for anticipated risk of >3 months, repeated every 4–6 months for continued exposure.
+
+Postexposure: 0.02 mL/kg IM as soon as possible after exposure up to 2 weeks.
+
+Hepatitis B Hepatitis B immune 0.06 mL/kg IM as soon as possible after globulin (HBIG) exposure up to 1 week for percutaneous exposure or 2 weeks for sexual exposure. 0.5 mL IM within 12 hours after birth for perinatal exposure.
+
+HIV-infected Immune globulin (IV)2 400 mg/kg IV every 28 days. children
+
+Preexposure and postexposure hepatitis A prophylaxis. The availability of hepatitis A vaccine has greatly reduced the need for preexposure prophylaxis. Patients >40 years should receive hepatitis A vaccine in addition to immune globulin for postexposure prophylaxis
+
+Postexposure prophylaxis in nonimmune persons following percutaneous, mucosal, sexual, or perinatal exposure. Hepatitis B vaccine should also be administered.
+
+HIV-infected children with recurrent serious bacterial infections or hypogammaglobulinemia.
+
+Idiopathic Immune globulin (IV)2 Consult the manufacturer’s dosing Response in children with ITP is greater than in thrombocyto recommendations for the specific adults. Corticosteroids are the treatment of choice in penic purpura product being used. adults, except for severe pregnancy-associated ITP. (ITP)
+
+Kawasaki Immune globulin (IV)2 400 mg/kg IV daily for 4 consecutive Effective in the prevention of coronary aneurysms. disease days within 4 days after the onset of For use in patients who meet strict criteria for illness. A single dose of 2 g/kg IV over Kawasaki disease. 10 hours is also effective.
+
+Measles Immune globulin (IM) Normal hosts: 0.25 mL/kg IM. Postexposure prophylaxis (within 6 days after exposure) in nonimmune contacts of acute cases.
+
+Immunocompromised hosts: 0.5 mL/kg IM (maximum 15 mL for all patients).
+
+Primary immu-Immune globulin (IV)2 Consult the manufacturer’s dosing nodeficiency recommendations for the specific disorders product being used.
+
+Primary immunodeficiency disorders include specific antibody deficiencies (eg, X-linked agammaglobulinemia) and combined deficiencies (eg, severe combined immunodeficiencies).
+
+Postexposure rabies prophylaxis in persons not previously immunized with rabies vaccine. Must be combined with rabies vaccine.
+
+TABLE A–3 Materials available for passive immunization.1
+
+Respiratory syn-Palivizumab 15 mg/kg IM once prior to the For use in infants and children <24 months with cytial virus (RSV) beginning of the RSV season and once chronic lung disease, hemodynamically significant monthly until the end of the season. congenital heart disease, or a history of premature birth (≥35 weeks of gestation).
+
+Rubella Immune globulin (IM) 0.55 mL/kg IM. Nonimmune pregnant women exposed to rubella who will not consider therapeutic abortion. Administration does not prevent rubella in the fetus of an exposed mother.
+
+Scorpion sting Scorpion Immune 3 vials IV over 10 minutes Use as soon as possible after scorpion sting (Centruroides) F(ab)2
+
+Snake bite Antivenin At least 3–5 vials (30–50 mL) IV initially Neutralizes venom of eastern coral snake and Texas (coral snake) (Micrurus fulvius), within 4 hours after the bite. Additional coral snake. Serum sickness occurs in almost all equine doses may be required. patients who receive >7 vials.
+
+Snake bite Antivenin (Crotalidae) (pit vipers) polyvalent immune Fab, ovine
+
+An initial dose of 4–6 vials should be infused intravenously over 1 hour. The dose should be repeated if initial control is not achieved. After initial control, 2 vials should be given every 6 hours for up to three doses.
+
+Postexposure prophylaxis: 250 units IM. For severe wounds or when there has been a delay in administration, 500 units is recommended.
+
+Treatment: 3000–6000 units IM. Consult the CDC.3
+
+For the management of minimal to moderate North American crotalid envenomation.
+
+Treatment of tetanus and postexposure prophylaxis of nonclean, nonminor wounds in inadequately immunized persons (less than two doses of tetanus toxoid or less than three doses if wound is >24 hours old).
+
+Treatment of severe reactions to vaccinia vaccination, including eczema vaccinatum, vaccinia necrosum, and ocular vaccinia. Available from the CDC.3 1Passive immunotherapy or immunoprophylaxis should always be administered as soon as possible after exposure. Prior to the administration of animal sera, patients should be questioned and tested for hypersensitivity.
+
+2See the following references for an analysis of additional uses of intravenously administered immune globulin: Ratko TA et al: Recommendations for off-label use of intravenously administered immunoglobulin preparations. JAMA 1995;273:1865; and Feasby T et al: Guidelines on the use of intravenous immune globulin for neurologic conditions. Transfus Med Rev 2007;21(2 Suppl 1)S57.
+
+3Centers for Disease Control and Prevention, 404-639-3670 during weekday business hours; 770-488-7100 during nights, weekends, and holidays (emergency requests only); http://www.cdc.gov/laboratory/drugservice/formulary.html. Clinicians who suspect a diagnosis of botulism should immediately call their state health department’s 24-hour emergency number.
+
+whenever possible. Materials available for passive immunization are summarized in Table A–3.
+
+It is the physician’s responsibility to inform the patient of the risk of immunization and to use vaccines and antisera in an appropriate manner. This may require skin testing to assess the risk of an untoward reaction. Some of the risks previously described are, however, currently unavoidable; on balance, the patient and society are clearly better off accepting the risks for routinely administered immunogens (eg, influenza and tetanus vaccines).
+
+Manufacturers should be held legally accountable for failure to adhere to existing standards for production of biologicals. However, in the present litigious atmosphere of the USA, the filing of large liability claims by the statistically inevitable victims of good public health practice has caused many manufacturers to abandon efforts to develop and produce low-profit but medically valuable therapeutic agents such as vaccines. Since the use and sale of these products are subject to careful review and approval by government bodies such as the Surgeon General’s Advisory Committee on Immunization Practices and the US Food and Drug Administration, “strict product liability” (liability without fault) may be an inappropriate legal standard to apply when rare reactions to biologicals, produced and administered according to government guidelines, are involved.
+
+Every adult, whether traveling or not, should be immunized with tetanus toxoid and should also be fully immunized against poliomyelitis, measles (for those born after 1956), and diphtheria. In addition, every traveler must fulfill the immunization requirements of the health authorities of the countries to be visited. These are listed in Health Information for International Travel, available from the Superintendent of Documents, US Government Printing Office, Washington, DC 20402. A useful website is http://wwwnc.cdc.gov/travel/. The Medical Letter on Drugs and Therapeutics also offers periodically updated recommendations for international travelers (see Treatment Guidelines from The Medical Letter, 2012;10:45). Immunizations received in preparation for travel should be recorded on the International Certificate of Immunization. Note: Smallpox vaccination is not recommended or required for travel in any country.
+
+Ada G: Vaccines and vaccination. N Engl J Med 2001;345:1042.
+
+Advice for travelers. Med Lett Drugs Ther 2012;10:45.
+
+Centers for Disease Control and Prevention websites: http://www.cdc.gov/ vaccines/ and http://wwwnc.cdc.gov/travel/.
+
+Dennehy PH: Active immunization in the United States: Developments over the past decade. Clin Micro Rev 2001;14:872.
+
+Gardner P, Peter G: Vaccine recommendations: Challenges and controversies. Infect Dis Clin North Am 2001;15:1.
+
+Gardner P et al: Guidelines for quality standards for immunization. Clin Infect Dis 2002;35:503.
+
+General recommendations on immunization. Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Morb Mortal Wkly Rep 2011;60(2):1.
+
+Hill DR et al: The practice of travel medicine: Guidelines by the Infectious Diseases Society of America. Clin Infect Dis 2006;43:1499.
+
+Keller MA, Stiehm ER: Passive immunity in prevention and treatment of infectious diseases. Clin Microbiol Rev 2000;13:602.
+
+Kim DK, Bridges CB, Harriman KH: Advisory Committee on Immunization Practices recommended immunization schedule for adults aged 19 years or older—United States, 2016. MMWR Morb Mortal Wkly Rep 2016;65:88.
+
+Pickering LK et al: Immunization programs for infants, children, adolescents, and adults: Clinical practice guidelines by the Infectious Diseases Society of America. Clin Infect Dis 2009;49:817.
+
+Robinson CL: Advisory Committee on Immunization Practices recommended immunization schedules for persons aged 0 through 18 years—United States, 2016. MMWR Morb Mortal Wkly Rep 2016;65:86.
+
+Rubin LG et al: 2013 IDSA clinical practice guideline for vaccination of the immunocompromised host. Clin Infect Dis 2014;58:309.
+
+Zumula A et al: Travel medicine. Infect Dis Clin North Am 2012;26:575.

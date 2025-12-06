@@ -1,0 +1,245 @@
+ having multiple identical epitopes that cross-link the B-cell receptor.
+
+thymus leukemia antigen (TL) Nonclassical MHC class Ib molecule expressed by intestinal epithelial cells and a ligand for CD8α:α.
+
+TI-1 antigens See thymus-independent antigens.
+
+TI-2 antigens See thymus-independent antigens.
+
+tickover The low-level generation of C3b continually occurring in the blood in the absence of infection.
+
+tingible body macrophages Phagocytic cells engulfing apoptotic B cells, which are produced in large numbers in germinal centers at the height of an adaptive immune response.
+
+TIR (for Toll–IL-1 receptor) domain Domain in the cytoplasmic tails of the TLRs and the IL-1 receptor, which interacts with similar domains in intracellular signaling proteins.
+
+tissue-resident memory T cells (TRM)   Memory lymphocytes that do not migrate after taking up residence in barrier tissues, where they are retained long term. They appear to be specialized for rapid effector function after restimulation with antigen or cytokines at sites of pathogen entry.
+
+TLR-1   Cell-surface Toll-like receptor that acts in a heterodimer with TLR-2 to recognize lipoteichoic acid and bacterial lipoproteins.
+
+TLR-2   Cell-surface Toll-like receptor that acts in a heterodimer with either TLR-1 or TLR-6 to recognize lipoteichoic acid and bacterial lipoproteins.
+
+TLR-3   Endosomal Toll-like receptor that recognizes double-stranded viral RNA.
+
+TLR-4   Cell-surface Toll-like receptor that, in conjunction with the accessory proteins MD-2 and CD14, recognizes bacterial lipopolysaccharide and lipoteichoic acid.
+
+TLR-5   Cell-surface Toll-like receptor that recognizes the ﬂagellin protein of bacterial ﬂagella.
+
+TLR-6   Cell-surface Toll-like receptor that acts in a heterodimer with TLR-2 to recognize lipoteichoic acid and bacterial lipoproteins.
+
+TLR-7   Endosomal Toll-like receptor that recognizes single-stranded viral RNA.
+
+TLR-8   Endosomal Toll-like receptor that recognizes single-stranded viral RNA.
+
+TLR-9   Endosomal Toll-like receptor that recognizes DNA containing unmethylated CpG.
+
+TLR-11, TLR-12   Mouse Toll-like receptor that recognizes profilin and profilin-like proteins.
+
+TNF family   Cytokine family, the prototype of which is tumor necrosis factor-α (TNF or TNF-α). It contains both secreted (for example TNF-α and lymphotoxin) and membrane-bound (for example CD40 ligand) members.
+
+An autoinﬂammatory disease characterized by recurrent, periodic episodes of inﬂammation and fever caused by mutations in gene that encodes TNF receptor I. The defective TNFR-I proteins fold abnormally and accumulate in cells in such a way that they spontaneously activate production of TNF-α. See also familial Mediterranean fever.
+
+TNF receptors Family of cytokine receptors which includes some that lead to apoptosis of the cell on which they are expressed (for example Fas and TNFR-I), whereas others lead to activation.
+
+tocilizumab Humanized anti-IL-6 receptor antibody used in treating rheumatoid arthritis.
+
+tofacitinib An inhibitor of JAK3 and JAK1 used to treat rheumatoid arthritis and under investigation in other inﬂammatory disorders.
+
+tolerance The failure to respond to an antigen. Tolerance to self antigens is an essential feature of the immune system; when tolerance is lost, the immune system can destroy self tissues, as happens in autoimmune disease.
+
+tolerant   Describes the state of immunological tolerance, in which the individual does not respond to a particular antigen.
+
+tolerogenic Describes an antigen or type of antigen exposure that induces tolerance.
+
+Toll Receptor protein in Drosophila that activates the transcription factor NFκB, leading to the production of antimicrobial peptides.
+
+Toll-like receptors (TLRs)   Innate receptors on macrophages, dendritic cells, and some other cells, that recognize pathogens and their products, such as bacterial lipopolysaccharide. Recognition stimulates the receptor-bearing cells to produce cytokines that help initiate immune responses.
+
+tonsils See lingual tonsils, palatine tonsils.
+
+toxic shock syndrome A systemic toxic reaction caused by the massive production of cytokines by CD4 T cells activated by the bacterial superantigen toxic shock syndrome toxin-1 (TSST-1), which is secreted by Staphylococcus aureus.
+
+toxic shock syndrome toxin-1 (TSST-1) See toxic shock syndrome.
+
+toxoids Inactivated toxins that are no longer toxic but retain their immunogenicity so that they can be used for immunization.
+
+TRAF3 An E3 ligase that produces a K63 polyubiquitin signaling scaffold in TLR-3 signaling to induce type I interferon gene expression.
+
+TRAF6 (tumor necrosis factor receptor-associated factor 6) An E3 ligase that produces a K63 polyubiquitin signaling scaffold in TLR-4 signaling to activate the NFκB pathway.
+
+A member of the TNF cytokine family expressed on the cell surface of some cells, such as NK cells, that induces cell death in target cells by ligation of the 'death' receptors DR4 and DR5.
+
+TRAM An adaptor protein that pairs with TRIF in signaling by TLR-4.
+
+transcytosis The active transport of molecules, such as secreted IgA, through epithelial cells from one face to the other.
+
+Transib A superfamily of transposable elements identified computationally and proposed to date back more than 500 million years and to have given rise to transposons in diverse species.
+
+transitional immunity Referring to the recognition by some adaptive immune system (e.g., MAIT, γ:δT cells) of non-peptide ligands expressed as a consequence of infection, such as various MHC class Ib molecules.
+
+transitional stages Defined stages in the development of immature B cells into mature B cells in the spleen, after which the B cell expresses B-cell co-receptor component CD21.
+
+transporters associated with antigen processing-1 and -2 (TAP1 and TAP2) See TAP1, TAP2.
+
+transposase An enzyme capable of cutting DNA and allowing integration and excision of transposable genetic elements into or from the genome of a host.
+
+trastuzumab Humanized antibody to HER-2/neu used in treatment of breast cancer.
+
+TRECs See T-cell receptor excision circles.
+
+TRIF An adaptor protein that alone is involved in signaling by TLR-3, and that when paired with TRAM, functions in signaling by TLR-4.
+
+TRIKA1 A complex of the E2 ubiquitin ligase UBC13 and cofactor Uve1A, that interacts with TRAF6 in forming the K63 polyubiquitin signaling scaffold in TLR signaling downstream of MyD88.
+
+TRIM21 (tripartite motif-containing 21) A cytosolic Fc receptor and E3 ligase that is activated by IgG and can ubiquitinate viral proteins after an antibody-coated virus enters the cytoplasm.
+
+TRIM25 An E3 ubiquitin ligase involved in signaling by RIG-I and MDA-5 for the activation of MAVS.
+
+tropism The characteristic of a pathogen that describes the cell types it will infect.
+
+TSC Protein complex that acts as a GTPase-activating protein (GAP) for Rheb in its non-phosphorylated state. TSC is inactivated when phosphorylated by Akt.
+
+TSLP Thymic stroma-derived lymphopoietin. A cytokine thought to be involved in promoting B-cell development in the embryonic liver.
+
+tumor necrosis factor-α See TNF family.
+
+tumor rejection antigens Antigens on the surface of tumor cells that can be recognized by T cells, leading to attack on the tumor cells. TRAs are peptides of mutant or overexpressed cellular proteins bound to MHC class I molecules on the tumor-cell surface.
+
+type 1 diabetes mellitus Disease in which the β cells of the pancreatic islets of Langerhans are destroyed so that no insulin is produced. The disease is believed to result from an autoimmune attack on the β cells. It is also known as insulin-dependent diabetes mellitus (IDDM), because the symptoms can be ameliorated by injections of insulin.
+
+type 1 immunity Class of effector activities aimed at elimination of intracellular pathogens.
+
+type 2 immunity Class of effector activities aimed at elimination of parasites and promoting barrier and mucosal immunity.
+
+type 3 immunity Class of effector activities aimed at elimination of extracellular pathogens such as bacteria and fungi.
+
+type I interferons The antiviral interferons IFN-α and IFN-β.
+
+type II interferon The antiviral interferon IFN-γ.
+
+type III secretion system (T3SS) Specialized appendage of Gram-negative bacteria used to aid infection of eukaryotic cells by direct secretion of effector proteins into their cytoplasm.
+
+tyrosinase Enzyme in melanin synthesis pathway and frequently a tumor rejection antigen in melanoma.
+
+tyrosine phosphatases Enzymes that remove phosphate groups from phosphorylated tyrosine residues on proteins. See also CD45.
+
+tyrosine protein kinases   Enzymes that specifically phosphorylate tyrosine residues in proteins. They are critical in the signaling pathways that lead to Tand B-cell activation.
+
+UBC13 See TRIKA1.
+
+ubiquitin A small protein that can be attached to other proteins and functions as a protein interaction module or to target them for degradation by the proteasome.
+
+ubiquitin ligase Enzyme that attaches ubiquitin covalently to exposed lysine residues on the surfaces of other proteins.
+
+ubiquitin–proteasome system (UPS) A quality control system in the cell that involves K48-linked ubiquitination of target proteins that are then recognized by the proteasome for degradation.
+
+ubiquitination The process of attachment of one or many subunits of ubiquitin to a target protein, which can mediate either degradation by the proteasome, or formation of scaffolds used for signaling, depending on the nature of the linkages.
+
+UL16-binding proteins, or ULBPs See RAET1.
+
+ULBP4 See RAET1.
+
+ulcerative colitis   One of the two major types of inﬂammatory bowel disease thought to result from an abnormal overresponsiveness to the commensal gut microbiota. See also Crohn’s disease.
+
+UNC93B1 A mutlipass transmembrane protein that is necessary for the normal transport of TLR-3, TLR-7, and TLR-9 from the ER, where they are assembled, to the endosome, where they function.
+
+unmethylated CpG dinucleotides While mammalian genomes have heavily methylated the cytosine within CpG sequences, unmethylated CpG is more typically characteristic of bacterial genomes, and is recognized by TLR-9 when encountered in the endosomal compartment.
+
+uracil-DNA glycosylase (UNG) Enzyme that removes uracil bases from DNA in a DNA repair pathway that can lead to somatic hypermutation, class switch recombination or gene conversion.
+
+urticaria The technical term for hives, which are red, itchy skin wheals usually brought on by an allergic reaction.
+
+Uve1A See TRIKA1.
+
+Vα Variable region from the TCRα chain.
+
+Vβ Variable region from the TCRβ chain.
+
+vaccination The deliberate induction of adaptive immunity to a pathogen by injecting a dead or attenuated (nonpathogenic) live form of the pathogen or its antigens (a vaccine).
+
+variability plot A measure of the difference between the amino acid sequences of different variants of a given protein. The most variable proteins known are antibodies and T-cell receptors.
+
+variable Ig domains (V domains) The amino-terminal protein domain of the polypeptide chains of immunoglobulins and T-cell receptor, which is the most variable part of the chain.
+
+variable lymphocyte receptors (VLRs) Nonimmunoglobulin LRR-containing variable receptors and secreted proteins expressed by the lymphocyte-like cells of the lamprey. They are generated by a process of somatic gene rearrangement.
+
+variable region The region of an immunoglobulin or T-cell receptor that is formed of the amino-terminal domains of its component polypeptide chains. These are the most variable parts of the molecule and contain the antigen-binding sites.
+
+variolation The intentional inhalation of or skin infection with material taken from smallpox pustules of an infected person for the purpose of deriving protective immunity.
+
+VCAM-1 An adhesion molecule expressed by vascular endothelium at sites of inﬂammation; it binds the integrin VLA-4, which allows effector T cells to enter sites of infection.
+
+V(D)J recombinase A multiprotein complex containing RAG-1 and RAG-2, as well as other proteins involved in cellular DNA repair.
+
+V(D)J recombination The process exclusive to developing lymphocytes in vertebrates, that recombines different gene segments into sequences encoding complete protein chains of immunoglobulins and T-cell receptors.
+
+vesicular compartments One of several major compartments within cells, composed of the endoplasmic reticulum, Golgi, endosomes, and lysosomes.
+
+V gene segments   Gene segments in immunoglobulin and T-cell receptor loci that encode the first 95 amino acids or so of the protein chain. There are multiple different V gene segments in the germline genome. To produce a complete exon encoding a V domain, one V gene segment must be rearranged to join up with a J or a rearranged DJ gene segment.
+
+viral entry inhibitors   Drugs that inhibit the entry of HIV into its host cells.
+
+viral integrase inhibitors Drugs that inhibit the action of the HIV integrase, so that the virus cannot integrate into the host-cell genome.
+
+viral protease Enzyme encoded by the human immunodeficiency virus that cleaves the long polyprotein products of the viral genes into individual proteins.
+
+viral set point   In human immunodeficiency virus infection, the level of HIV virions persisting in the blood after the acute phase of infection has passed.
+
+virus Pathogen composed of a nucleic acid genome enclosed in a protein coat. Viruses can replicate only in a living cell, because they do not possess the metabolic machinery for independent life.
+
+virus-neutralizing antibodies Antibodies that block the ability of a virus to establish infection of cells.
+
+vitronectin See S-protein.
+
+VLRs See variable lymphocyte receptors.
+
+VpreB See surrogate light chain.
+
+WAS See Wiskott–Aldrich syndrome.
+
+WASp The protein defective in patients with Wiskott–Aldrich syndrome. When activated, WASp promotes actin polymerization.
+
+Weibel–Palade bodies Granules within endothelial cells that contain P-selectin.
+
+wheal-and-flare reaction A skin reaction observed in an allergic individual when an allergen to which the individual has been sensitized is injected into the dermis. It consists of a raised area of skin containing edema ﬂuid, and a spreading, red, itchy inﬂammatory reaction around it.
+
+white pulp The discrete areas of lymphoid tissue in the spleen.
+
+Wiskott–Aldrich syndrome (WAS) An immunodeficiency disease characterized by defects in the cytoskeleton of cells due to a mutation in the protein WASp, which is involved in interactions with the actin cytoskeleton. Patients with this disease are highly susceptible to infections with pyogenic bacteria due to defects in T-follicular helper cell interactions with B cells.
+
+XBP1 (X-box binding protein 1) A transcription factor that induces genes required for optimal protein secretion by plasma cells, and is part of the unfolded protein response. XBP1 mRNA is spliced from an inactive to an active form by signals produced by ER stress.
+
+XCR1 A chemokine receptor selectively expressed by a subset of dendritic cells that are specialized for cross-presentation whose development requires the transcription factor BATF3.
+
+xenografts Grafted organs taken from a different species than the recipient.
+
+xenoimmunity   In the context of immune-mediated disease, refers to immunity directed against foreign antigens of non-human species, such as bacteria-derived antigens of the commensal microbiota that are targets in inﬂammatory bowel disease (IBD).
+
+xeroderma pigmentosum Several autosomal recessive diseases caused by defects in repair of ultraviolet light-induced DNA damage. Defects in Polη cause type V xeroderma pigmentosum.
+
+xid See X-linked immunodeficiency.
+
+X-linked agammaglobulinemia (XLA) A genetic disorder in which B-cell development is arrested at the pre-B-cell stage and no mature B cells or antibodies are formed. The disease is due to a defect in the gene encoding the protein tyrosine kinase Btk, which is encoded on the X chromosome.
+
+X-linked hyper IgM syndrome See CD40 ligand deficiency.
+
+A syndrome with some features resembling hyper IgM syndrome. It is caused by mutations in the protein NEMO, a component of the NFκB signaling pathway. Also called NEMO deficiency.
+
+X-linked immunodeficiency An immunodeficiency disease in mice due to defects in the protein tyrosine kinase Btk. Shares the gene defect with X-linked agammaglobulinemia in humans, but leads to a milder B cell defect than seen in the human disease.
+
+X-linked lymphoproliferative (XLP) syndrome Rare immunodeficiency diseases that result from mutations in the gene SH2D1A (XLP1) or XIAP (XLP2). Boys with this deficiency typically develop overwhelming Epstein–Barr virus infection during childhood, and sometimes lymphomas.
+
+An immunodeficiency disease in which T-cell development fails at an early intrathymic stage and no production of mature T cells or T-cell dependent antibody occurs. It is due to a defect in a gene that encodes the γc chain shared by the receptors for several different cytokines.
+
+XLP See X-linked lymphoproliferative syndrome.
+
+XRCC4 A protein that functions in NHEJ DNA repair by interacting with DNA ligase IV and Ku70/80 at double-strand breaks.
+
+ζ chain   One of the signaling chains associated with the T-cell receptor that has three ITAM motifs in its cytoplasmic tail.
+
+ZAP-70 (ζ-chain-associated protein) A cytoplasmic tyrosine kinase found in T cells that binds to the phosphorylated ζ chain of the T-cell receptor and is a key enzyme in signaling T-cell activation.
+
+ZFP318 A spliceosome protein expressed in mature and activated B cells, but not immature B cells, that favors splicing from the rearranged VDJ exon of immunoglobulin heavy chain to the Cδ exon, thereby promoting expression of surface IgD.
+
+zoonotic Describes a disease of animals that can be transmitted to humans.
+
+zymogens An inactive form of an enzyme, usually a protease, that must be modified in some way, for example by selective cleavage of the protein chain, before it can become active.

@@ -1,0 +1,148 @@
+INFO:__main__:Test mode: WandB disabled.
+INFO:__main__:Test mode detected. Loading Qwen/Qwen2.5-0.5B...
+INFO:__main__:Loading data for condition: ordered
+INFO:scripts.utils.data_utils:Loading 18 training files from data/medqa/ordered
+INFO:__main__:Test mode: Truncating training data to 10000 chars per book.
+
+==================================================
+SMOKE TEST: TRAIN DATA (First 4096 Tokens)
+==================================================
+We are pleased that the following section authors have continued as members of the seventh edition team: Drs. Kalman Rubinson and Eric Lang (nervous system), Dr. James Watras (muscle), Dr. Achilles Pappano (cardiovascular system), Drs. Michelle Cloutier and Roger Thrall (respiratory system), Drs. Kim Barrett and Helen Raybould (gastrointestinal system), and Dr. Bruce White (endocrine and reproductive systems). We also welcome the following authors: Dr. Withrow Gil Wier (cardiovascular system), and Dr. John Harrison (endocrine and reproduction systems).
+
+As in the previous editions of this textbook, we have attempted to emphasize broad concepts and to minimize the compilation of isolated facts. Each chapter has been written to make the text as lucid, accurate, and current as possible. We have included both clinical and molecular information in each section, as feedback on these features has indicated that this information serves to provide clinical context and new insights into physiologic phenomena at the cellular and molecular levels. New to this edition is a list of sources that the reader can consult for further information on the topics covered in each chapter. We hope that you find this a valuable addition to the book.
+
+The human body consists of billions of cells that are organized into tissues (e.g., muscle, epithelia, and nervous tissue) and organ systems (e.g., nervous, cardiovascular, respiratory, renal, gastrointestinal, endocrine, and reproductive). For these tissues and organ systems to function properly and thus allow humans to live and carry out daily activities, several general conditions must be met. First and foremost, the cells within the body must survive. Survival requires adequate cellular energy supplies, maintenance of an appropriate intracellular milieu, and defense against a hostile external environment. Once cell survival is ensured, the cell can then perform its designated or specialized function (e.g., contraction by skeletal muscle cells). Ultimately, the function of cells, tissues, and organs must be coordinated and regulated. All of these functions are the essence of the discipline of physiology and are presented throughout this book. What follows is a brief introduction to these general concepts.
+
+Cells need a constant supply of energy. This energy is derived from the hydrolysis of adenosine triphosphate (ATP). If not replenished, the cellular ATP supply would be depleted in most cells in less than 1 minute. Thus, ATP must be continuously synthesized. This in turn requires a steady supply of cellular fuels. However, the cellular fuels (e.g., glucose, fatty acids, and ketoacids) are present in the blood at levels that can support cellular metabolism only for a few minutes. The blood levels of these cellular fuels are maintained through the ingestion of precursors (i.e., carbohydrates, proteins, and fats). In addition, these fuels can be stored and then mobilized when ingestion of the precursors is not possible. The storage forms of these fuels are triglycerides (stored in adipose tissue), glycogen (stored in the liver and skeletal muscle), and protein. The maintenance of adequate levels of cellular fuels in the blood is a complex process involving the following tissues, organs, and organ systems:
+
+Liver: Converts precursors into fuel storage forms (e.g., glucose → glycogen) when food is ingested, and converts storage forms to cellular fuels during fasting (e.g., glycogen → glucose and amino acids → glucose).
+
+Skeletal muscle: Like the liver, stores fuel (glycogen and protein) and converts glycogen and protein to fuels (e.g., glucose) or fuel intermediates (e.g., protein → amino acids) during fasting.
+
+Gastrointestinal tract: Digests and absorbs fuel precursors.
+
+Adipose tissue: Stores fuel during feeding (e.g., fatty acids → triglycerides) and releases the fuels during fasting.
+
+Cardiovascular system: Delivers the fuels to the cells and to and from their storage sites.
+
+Endocrine system: Maintains the blood levels of the cellular fuels by controlling and regulating their storage and their release from storage (e.g., insulin and glucagons).
+
+Nervous system: Monitors oxygen levels and nutrient content in the blood and, in response, modulates the cardiovascular, pulmonary, and endocrine systems and induces feeding and drinking behaviors. In addition to energy metabolism, the cells of the body must maintain a relatively constant intracellular environment to survive. This includes the uptake of fuels needed to produce ATP, the export from the cell of cellular wastes, the maintenance of an appropriate intracellular ionic environment, the establishment of a resting membrane potential, and the maintenance of a constant cellular volume. All of these functions are carried out by specific membrane transport proteins.
+
+The composition of the extracellular fluid (ECF) that bathes the cells must also be maintained relatively constant. In addition, the volume and temperature of the ECF must be regulated. Epithelial cells in the lungs, gastrointestinal tract, and kidneys are responsible for maintaining the volume and composition of the ECF, while the skin plays a major role in temperature regulation. On a daily basis, H2O and food are ingested, and essential components are absorbed across the epithelial cells of the gastrointestinal tract. This daily intake of solutes and water must be matched by excretion from the body, thus maintaining steady-state balance. The kidneys are critically involved in the maintenance of steady-state balance for water and many components of the ECF (e.g., Na+ , K+ , HCO3 − , pH, Ca++ , organic solutes). The lungs ensure an adequate supply of O2 to “burn” the cellular fuels for the production of ATP and excrete the major waste product of this process (i.e., CO2). Because CO2 can affect the pH of the ECF, the lungs work with the kidneys to maintain ECF pH.
+
+Because humans inhabit many different environments and often move between environments, the body must be able to rapidly adapt to the challenges imposed by changes in ambient temperature and availability of food and water. Such adaptation requires coordination of the function of cells in different tissues and organs as well as their regulation. The nervous and endocrine systems coordinate and regulate cell, tissue, and organ function. The regulation of function can occur rapidly (seconds to minutes), as is the case for levels of cellular fuels in the blood, or over much longer periods of time (days to weeks), as is the case for acclimatization when an individual moves from a cool to a hot environment or changes from a high-salt to a low-salt diet.
+
+The function of the human body represents complex processes at multiple levels. This book explains what is currently known about these processes. Although the emphasis is on the normal function of the human body, discussion of disease and abnormal function is also appropriate, as these often illustrate physiologic processes and principles at the extremes.
+
+The authors for each section have presented what they believe to be the most likely mechanisms responsible for the phenomena under consideration. We have adopted this compromise to achieve brevity, clarity, and simplicity.
+
+Bruce M. Koeppen, MD, PhD Bruce A. Stanton, PhD 29TheGastricPhaseoftheIntegratedResponsetoaMeal,529 30TheSmallIntestinalPhaseoftheIntegratedResponsetoaMeal,541 31TheColonicPhaseoftheIntegratedResponsetoaMeal,559 32TransportandMetabolicFunctionsoftheLiver,568
+
+Section 7: The Renal System, 580 37RoleoftheKidneysintheRegulationofAcid-BaseBalance,670
+
+Section 8: The Endocrine and Reproductive Systems, 685
+
+SECTION 1Cellular Physiology BRUCE M. KOEPPEN AND BRUCE A. STANTON
+
+Upon completion of this chapter, the student should be able to answer the following questions: 1.
+
+What organelles are found in a typical eukaryotic cell, and what is their function?
+
+2.
+
+What is the composition of the plasma membrane?
+
+3.
+
+What are the major classes of membrane transport proteins, and how do they transport biologically important molecules and ions across the plasma membrane?
+
+4.
+
+What is the electrochemical gradient, and how it is used to determine whether the transport of a molecule or ion across the plasma membrane is active or passive?
+
+5.
+
+What are the driving forces for movement of water across cell membrane and the capillary wall?
+
+In addition, the student should be able to define and understand the following properties of physiologically important solutions and fluids: he human body is composed of billions of cells. Although cells can perform different functions, they share certain common elements. This chapter provides an overview of these common elements and focuses on the important function of the transport of molecules and water into and out of the cell across its plasma membrane.
+
+Overview of Eukaryotic Cells
+
+Eukaryotic cells are distinguished from prokaryotic cells by the presence of a membrane-delimited nucleus. With the exception of mature human red blood cells and cells within the lens of the eye, all cells within the human body contain a nucleus. The cell is therefore effectively divided into two compartments: the nucleus and the cytoplasm. The cytoplasm is an aqueous solution containing numerous organic molecules, ions, cytoskeletal elements, and a number of organelles. Many of the organelles are membrane-enclosed compartments that carry out specific cellular function. An idealized eukaryotic cell is depicted in
+
+Fig. 1.1 , and the primary function of some components and compartments of the cell are summarized in . Readers who desire a more in-depth presentation of this material are encouraged to consult one of the many textbooks on cell and molecular biology that are currently available.
+
+The Plasma Membrane
+
+The cells within the body are surrounded by a plasma membrane that separates the intracellular contents from the extracellular environment. Because of the properties of this membrane and, in
+
+[End of first 4096 tokens. Original length: 10000 chars, Token count: 2052]
+
+==================================================
+SMOKE TEST: MCQA ZERO-SHOT PROMPT
+==================================================
+Question: A junior orthopaedic surgery resident is completing a carpal tunnel repair with the department chairman as the attending physician. During the case, the resident inadvertently cuts a flexor tendon. The tendon is repaired without complication. The attending tells the resident that the patient will do fine, and there is no need to report this minor complication that will not harm the patient, as he does not want to make the patient worry unnecessarily. He tells the resident to leave this complication out of the operative report. Which of the following is the correct next action for the resident to take?
+A: Disclose the error to the patient but leave it out of the operative report
+B: Disclose the error to the patient and put it in the operative report
+C: Tell the attending that he cannot fail to disclose this mistake
+D: Report the physician to the ethics committee
+E: Refuse to dictate the operative report
+Answer:
+
+Target: C
+
+==================================================
+SMOKE TEST: MCQA FEW-SHOT PROMPT
+==================================================
+Question: A 23-year-old pregnant woman at 22 weeks gestation presents with burning upon urination. She states it started 1 day ago and has been worsening despite drinking more water and taking cranberry extract. She otherwise feels well and is followed by a doctor for her pregnancy. Her temperature is 97.7°F (36.5°C), blood pressure is 122/77 mmHg, pulse is 80/min, respirations are 19/min, and oxygen saturation is 98% on room air. Physical exam is notable for an absence of costovertebral angle tenderness and a gravid uterus. Which of the following is the best treatment for this patient?
+A: Ampicillin
+B: Ceftriaxone
+C: Ciprofloxacin
+D: Doxycycline
+E: Nitrofurantoin
+Answer: E
+
+Question: A 3-month-old baby died suddenly at night while asleep. His mother noticed that he had died only after she awoke in the morning. No cause of death was determined based on the autopsy. Which of the following precautions could have prevented the death of the baby?
+A: Placing the infant in a supine position on a firm mattress while sleeping
+B: Routine postnatal electrocardiogram (ECG)
+C: Keeping the infant covered and maintaining a high room temperature
+D: Application of a device to maintain the sleeping position
+E: Avoiding pacifier use during sleep
+Answer: A
+
+Question: A mother brings her 3-week-old infant to the pediatrician's office because she is concerned about his feeding habits. He was born without complications and has not had any medical problems up until this time. However, for the past 4 days, he has been fussy, is regurgitating all of his feeds, and his vomit is yellow in color. On physical exam, the child's abdomen is minimally distended but no other abnormalities are appreciated. Which of the following embryologic errors could account for this presentation?
+A: Abnormal migration of ventral pancreatic bud
+B: Complete failure of proximal duodenum to recanalize
+C: Error in neural crest cell migration
+D: Abnormal hypertrophy of the pylorus
+E: Failure of lateral body folds to move ventrally and fuse in the midline
+Answer: A
+
+Question: A pulmonary autopsy specimen from a 58-year-old woman who died of acute hypoxic respiratory failure was examined. She had recently undergone surgery for a fractured femur 3 months ago. Initial hospital course was uncomplicated, and she was discharged to a rehab facility in good health. Shortly after discharge home from rehab, she developed sudden shortness of breath and had cardiac arrest. Resuscitation was unsuccessful. On histological examination of lung tissue, fibrous connective tissue around the lumen of the pulmonary artery is observed. Which of the following is the most likely pathogenesis for the present findings?
+A: Thromboembolism
+B: Pulmonary ischemia
+C: Pulmonary hypertension
+D: Pulmonary passive congestion
+E: Pulmonary hemorrhage
+Answer: A
+
+Question: A junior orthopaedic surgery resident is completing a carpal tunnel repair with the department chairman as the attending physician. During the case, the resident inadvertently cuts a flexor tendon. The tendon is repaired without complication. The attending tells the resident that the patient will do fine, and there is no need to report this minor complication that will not harm the patient, as he does not want to make the patient worry unnecessarily. He tells the resident to leave this complication out of the operative report. Which of the following is the correct next action for the resident to take?
+A: Disclose the error to the patient but leave it out of the operative report
+B: Disclose the error to the patient and put it in the operative report
+C: Tell the attending that he cannot fail to disclose this mistake
+D: Report the physician to the ethics committee
+E: Refuse to dictate the operative report
+Answer:
+
+Target: C
+==================================================
+
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Adding EOS to train dataset:   0%|          | 0/18 [00:00<?, ? examples/s]Adding EOS to train dataset: 100%|██████████| 18/18 [00:00<00:00, 1874.46 examples/s]
+Tokenizing train dataset:   0%|          | 0/18 [00:00<?, ? examples/s]Tokenizing train dataset: 100%|██████████| 18/18 [00:00<00:00, 202.64 examples/s]
+Truncating train dataset:   0%|          | 0/18 [00:00<?, ? examples/s]Truncating train dataset: 100%|██████████| 18/18 [00:00<00:00, 18070.24 examples/s]
+INFO:__main__:Test mode: Skipping actual training loop logic (or running dry run if needed).

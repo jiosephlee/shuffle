@@ -1,0 +1,129 @@
+icle found at the axon terminals of nerve cells. Its contents are released into the synaptic cleft by exocytosis when an action potential reaches the axon terminal.
+
+synaptonemal complex   Structure that holds paired homologous chromosomes tightly together in pachytene of prophase I in meiosis and promotes the final steps of crossing-over. (Figures 17–55 and 17–56) syncytium Mass of cytoplasm containing many nuclei enclosed by a single plasma membrane. Typically the result either of cell fusion or of a series of incomplete division cycles in which the nuclei divide but the cell does not.
+
+TATA box   Sequence in the promoter region of many eukaryotic genes that binds a general transcription factor (TFIID) and hence specifies the position at which transcription is initiated. (Figure 6–14)
+
+T cell receptor (TCR) Transmembrane receptor for antigen on the surface of T lymphocytes, consisting of an immunoglobulin-like heterodimer. (Figure 24–32)
+
+T-cell-mediated immune response Any adaptive immune response mediated by antigen-specific T cells.
+
+telomerase   Enzyme that elongates telomere sequences in DNA, which occur at the ends of eukaryotic chromosomes.
+
+telomere   End of a chromosome, associated with a characteristic DNA sequence that is replicated in a special way. Counteracts the tendency of the chromosome otherwise to shorten with each round of replication. From Greek telos, end, and meros, portion.
+
+telomere   End of a chromosome, associated with a characteristic DNA sequence that is replicated in a special way. Counteracts the tendency of the chromosome otherwise to shorten with each round of replication. From Greek telos, end.
+
+telophase Final stage of mitosis in which the two sets of separated chromosomes decondense and become enclosed by nuclear envelopes. (Panel 17–1, pp. 980–981) template Single strand of DNA or RNA whose nucleotide sequence acts as a guide for the synthesis of a complementary strand. (Figure 1–3) terminal differentiation The limit of cell determination when a cell forms one of the highly specialized cell types of the adult body.
+
+terminally differentiated A cell at the limit of cell determination, being one of the highly specialized cell types of the adult body.
+
+terminator Signal in bacterial DNA that halts transcription; in eukaryotes, transcription terminates after cleavage and polyadenylation of the newly synthesized RNA.
+
+tertiary structure   Complex three-dimensional form of a folded polymer chain, especially a protein or RNA molecule.
+
+TH1 cell   A type of effector helper T cell that secretes interferon-γ to help activate macrophages and induces B cells to switch the class of antibody they make. (Figure 24–44)
+
+TH17 cell   A type of effector helper T cell that secretes IL17, which recruits neutrophils and stimulates an inflammatory response. (Figure 24–44)
+
+TH2 cell   A type of effector helper T cell that helps activate  B cells to produce antibodies, to undergo somatic hypermutation, and switch the class of immunoglobulin produced. (Figure 24–44) thylakoid   Flattened sac of membrane in a chloroplast that contains chlorophyll and other pigments and carries out the light-trapping reactions of photosynthesis. Stacks of thylakoids form the grana of chloroplasts. (Figures 14–35 and 14–36) thylakoid membrane   Chloroplast membrane system that contains the large membrane protein complexes for photosynthesis and photophosphorylation.
+
+thymocytes Developing T cells in the thymus.
+
+tight junction Cell–cell junction that seals adjacent epithelial cells together, preventing the passage of most dissolved molecules from one side of the epithelial sheet to the other. (Figures 19–2 and 19–21)
+
+TIM complexes   Protein translocators in the mitochondrial inner membrane. The TIM23 complex mediates the transport of proteins into the matrix and the insertion of some proteins into the inner membrane; the TIM22 complex mediates the insertion of a subgroup of proteins into the inner membrane.  (Figure 12–21)
+
+Toll   A transmembrane receptor protein. On the ventral side of the Drosophila egg membrane, its activation controls the distribution of Dorsal, a transcription regulator of the NFκB family.
+
+Toll-like receptors (TLRs) Family of pattern recognition receptors (PRRs) on or in cells of the innate immune system. They recognize pathogen-associated immunostimulants (PAMPs) associated with microbes. (Figure 24–4)
+
+TOM complex   Multisubunit protein complex that transports proteins across the mitochondrial outer membrane.  (Figure 12–21)
+
+TOR   Large, serine/threonine protein kinase that is activated by the PI-3-kinase–Akt signaling pathway and promotes cell growth.
+
+totipotent Describes a cell that is able to give rise to all the different cell types in an organism.
+
+trans face Face on the other (far) side.
+
+trans Golgi network (TGN) Network of interconnected tubular and cisternal structures closely associated with the trans face of the Golgi apparatus and the compartment from which proteins and lipids exit the Golgi, bound for the cell surface or another compartment.
+
+transcellular transport   Transport of solutes, such as nutrients, across an epithelium, by means of membrane transport proteins in the apical and basal faces of the epithelial cells. (Figure 11–11) transcription (DNA transcription) Copying of one strand of DNA into a complementary RNA sequence by the enzyme RNA polymerase. (Figures 6–1 and 6–8) transcription regulators   General name for any protein that binds to a specific DNA sequence (known as a cis-regulatory sequence) to influence the transcription of a gene.
+
+transcriptional control Regulation by a cell of gene expression by controlling when and how often a given gene is transcribed.
+
+transcytosis Uptake of material at one face of a cell by endocytosis, its transfer across a cell in vesicles, and discharge from another face by exocytosis. (Figure 13–58) transfer RNA (tRNA) Set of small RNA molecules used in protein synthesis as an interface (adaptor) between mRNA and amino acids. Each type of tRNA molecule is covalently linked to a particular amino acid. (Figure 6–50) transferrin receptor   Cell-surface receptor for transferrin (a soluble protein that carries iron) that delivers iron to the cell interior via receptor-mediated endocytosis and recycling of the receptor–transferrin complex.
+
+transformed   A cell with an altered phenotype that behaves in many ways like a cancer cell (i.e., unregulated proliferation, anchorage-independent growth in culture).
+
+transforming growth factor-β superfamily (TGFβ superfamily) Large family of structurally related secreted proteins that act as hormones and local mediators to control a wide range of functions in animals, including during development. It includes the TGFβ/activin and bone morphogenetic protein (BMP) subfamilies. (Figure 15–57) transgene   The foreign or modified gene that has been added to create a transgenic organism.
+
+transgenic organism Plant or animal that has stably incorporated one or more genes from another cell or organism (through insertion, deletion, and/or replacement) and can pass them on to successive generations. (Figures 8–53 and 8–70) transit amplifying cell   Cell derived from a stem cell that divides a limited number of times before terminally differentiating.
+
+transition state   Structure that forms transiently in the course of a chemical reaction and has the highest free energy of any reaction intermediate. Its formation is a rate-limiting step in the reaction. (Figure 3–47) translation (RNA translation) Process by which the sequence of nucleotides in an mRNA molecule directs the incorporation of amino acids into protein. Occurs on a ribosome. (Figures 6–1 and 6–64) translational control   Regulation by a cell of gene expression by selecting which mRNAs in the cytoplasm are translated by ribosomes.
+
+translocon The assembly of a translocator associated with other membrane complexes, such as enzymes that modify the growing polypeptide chain.
+
+transmembrane adhesion proteins Cytoskeletonlinked transmembrane molecules with one end linking to the cytoskeleton inside the cell and the other end linking to other structures outside it.
+
+transmembrane protein   Membrane protein that extends through the lipid bilayer, with part of its mass on either side of the membrane. (Figure 10–17) transmitter-gated ion channel (ion-channel-coupled receptor, ionotropic receptor) Ion channel found at chemical synapses in the postsynaptic plasma membranes of nerve and muscle cells. Opens only in response to the binding of a specific extracellular neurotransmitter. The resulting inflow of ions leads to the generation of a local electrical signal in the postsynaptic cell. (Figures 11–36 and 15–6) transport vesicle Membrane-enclosed transport containers that bud from specialized coated regions of donor membrane and pass from one cell compartment to another as part of the cell’s membrane transport processes; vesicles can be spherical, tubular, or irregularly shaped.
+
+transporter (carrier protein, permease) Membrane transport protein that binds to a solute and transports it across the membrane by undergoing a series of conformational changes. Transporters can transport ions or molecules passively down an electrochemical gradient or can link the conformational changes to a source of metabolic energy such as ATP hydrolysis to drive active transport. Compare channel protein. See also membrane transport protein. (Figure 11–3) transposable element (transposon) Segment of DNA that can move from one genome position to another by transposition. (Table 5–4, p. 288) transposition (transpositional recombination) Movement of a DNA sequence from one genome site to another.  (Table 5–4, p. 288) treadmilling   Process by which a polymeric protein filament is maintained at constant length by addition of protein subunits at one end and loss of subunits at the other. (Panel 16–2,  pp. 902–903)
+
+Trithorax group   Set of proteins critical for cell memory that maintains the transcription of Hox genes in cells where transcription has already been switched on.
+
+t-SNAREs   Transmembrane SNARE protein, usually composed of three proteins and found on target membranes where it interacts with v-SNAREs on vesicle membranes.
+
+tubulin   The protein subunit of microtubules. (Panel 16–1,  p. 891, and Figure 16–42) γ-tubulin ring complex (γ-TuRC) Protein complex containing γ-tubulin and other proteins that is an efficient nucleator of microtubules and caps their minus ends.
+
+tumor progression   Process by which an initial mildly disordered cell behavior gradually evolves into a full-blown cancer. (Figures 20–8 and 20–9) tumor suppressor gene   Gene that appears to help prevent formation of a cancer. Loss-of-function mutations in such genes favor the development of cancer. (Figure 20–17) tumor virus   Virus that can help make the cell it infects cancerous.
+
+turgor pressure   Large hydrostatic pressure developed inside a plant cell as the result of the intake of water by osmosis; it is the force driving cell expansion in plant growth and it maintains the rigidity of plant stems and leaves.
+
+two-dimensional gel electrophoresis   Technique combining two different separation procedures—separation by charge (isoelectric focusing) in the first dimension, then separation by size in a direction at a right angle to that of the first step—to resolve up to 2000 proteins in the form of a two-dimensional protein map.
+
+type III fibronectin repeat   The major repeat domain in fibronectin, it is about 90 amino acids long and occurs at least 15 times in each subunit. The repeat is among the most common of all protein domains in vertebrates.
+
+type III secretion system   One of several secretion systems in Gram negative bacteria; delivers effector proteins into host cells in a contact-dependent manner. (Figure 23–7) type IV collagen   An essential component of mature basal laminae consisting of three long protein chains twisted into a ropelike superhelix with multiple bends. Separate molecules assemble into a flexible, felt-like network that gives the basal lamina tensile strength.
+
+tyrosine kinase Enzyme that phosphorylates specific proteins on tyrosines. See also cytoplasmic tyrosine kinase.
+
+tyrosine-kinase-associated receptor   Cell-surface receptor that functions similarly to RTKs, except that the kinase domain is encoded by a separate gene and is noncovalently associated with the receptor polypeptide chain.
+
+ubiquitin   Small, highly conserved protein present in all eukaryotic cells that becomes covalently attached to lysines of other proteins. Attachment of a short chain of ubiquitins to such a lysine can tag a protein for intracellular proteolytic destruction by a proteasome. (Figure 3–69) ubiquitin ligase Any one of a large number of enzymes that attach ubiquitin to a protein, often marking it for destruction in a proteasome. The process catalyzed by a ubiquitin ligase is called ubiquitylation. (Figure 3–71) unfolded protein response   Cellular response triggered by an accumulation of misfolded proteins in the endoplasmic reticulum. Involves expansion of the ER and increased transcription of genes that code for endoplasmic reticulum chaperones and degradative enzymes. (Figure 12–51) uniporter   Carrier protein that transports a single solute from one side of the membrane to the other. (Figure 11–8)
+
+V(D)J recombination   Somatic recombination process by which gene segments are brought together to form a functional gene for a polypeptide chain of an immunoglobulin or T cell receptor. (Figure 24–28) vacuole Large fluid-filled compartment found in most plant and fungal cells, typically occupying more than a third of the cell volume. (Figure 13–41) van der Waals attraction   Type of (individually weak) noncovalent bond that is formed at close range between nonpolar atoms. (Table 2–1, p. 45 and Panel 2–3, pp. 94–95) variable region Region of an immunoglobulin or T cell receptor polypeptide chain that is the most variable and contributes to the antigen-binding site. (Figures 24–25 and 24–32) vascular endothelial growth factor (VEGF) Secreted protein that stimulates the growth of blood vessels.  (Table 15–4, p. 850, and Figure 22–26) vesicle transport model One hypothesis for how the Golgi apparatus achieves and maintains its polarized structure and how molecules move from one cisterna to another. This model holds that Golgi cisternae are long-lived structures that retain their characteristic set of Golgi-resident proteins firmly in place, and cargo proteins are transported from one cisterna to the next by transport vesicles.
+
+vesicular transport   Transport of proteins from one cell compartment to another by means of membrane-bounded intermediaries such as vesicles or organelle fragments.
+
+V gene segment A DNA sequence encoding most of the variable region of an immunoglobulin or T cell receptor polypeptide chain. There are many different V gene segments, one of which becomes joined to a D or J gene segment by somatic recombination when an individual lymphoid progenitor cell begins to differentiate into a B or T lymphocyte.  (Figure 24–28) virulence factor   Protein, encoded by a virulence gene, that contributes to an organism’s ability to cause disease.
+
+virulence gene   Gene that contributes to an organism’s ability to cause disease.
+
+virus Particle consisting of nucleic acid (RNA or DNA) enclosed in a protein coat and capable of replicating within a host cell and spreading from cell to cell. (Figure 23–11) virus receptor Molecule on the host cell surface to which virus surface proteins bind to enable binding of virus to the cell surface.
+
+voltage-gated cation channel   Type of ion channel found in the membranes of electrically excitable cells (such as nerve, endocrine, egg, and muscle cells). Opens in response to a shift in membrane potential past a threshold value.
+
+voltage-gated K+ channel Ion channel in the membrane of nerve cells that opens in response to membrane depolarization, enabling K+ efflux and rapid restoration of the negative membrane potential.
+
+voltage-gated Na+ channel Ion channel in the membrane of nerve and skeletal muscle cells that opens in response to a stimulus causing sufficient depolarization, allowing Na+ to enter the cell down its electrochemical gradient v-SNAREs   Transmembrane SNARE protein, comprising a single polypeptide chain, usually found in vesicle membranes where it interacts with t-SNAREs in target membranes.
+
+V-type pumps   Turbine-like protein machines constructed from multiple different subunits that use the energy of ATP hydrolysis to drive transport across a membrane. The V-type proton pump transfers H+ into organelles such as lysosomes to acidify their interior. (Figure 11–12)
+
+WASp protein Key target of activated Cdc42. Exists in an inactive folded conformation and an activated open conformation; association with Cdc42 stabilizes the open form, enabling binding to the Arp 2/3 complex and enhancing actinnucleating activity.
+
+Wee1   Protein kinase that inhibits Cdk activity by phosphorylating amino acids in the Cdk active site. Important in regulating entry into M phase of the cell cycle.
+
+Western blotting   Technique by which proteins are separated by electrophoresis and immobilized on a paper sheet and then analyzed, usually by means of a labeled antibody. Also called immunoblotting.
+
+white blood cell General name for all the nucleated blood cells lacking hemoglobin. Also called leukocytes. Includes lymphocytes, granulocytes, and monocytes. (Figure 22–27)
+
+Wnt protein   Member of a family of secreted signal proteins that have many different roles in controlling cell differentiation, proliferation, and gene expression in animal embryos and adult tissues.
+
+Wnt/β-catenin pathway Signaling pathway activated by binding of a Wnt protein to its cell-surface receptors. The pathway has several branches. In the major (canonical) branch, activation causes increased amounts of β-catenin to enter the nucleus, where it regulates the transcription of genes controlling cell differentiation and proliferation. Overactivation of the  Wnt/β-catenin pathway can lead to cancer. (Figure 15–60)
+
+X-inactivation   Inactivation of one copy of the X chromosome in the somatic cells of female mammals.
+
+X-inactivation center (XIC) Site in an X chromosome at which inactivation is initiated and spreads outward.
+
+x-ray crystallography    Technique for determining the three-dimensional arrangement of atoms in a molecule based on the diffraction pattern of x-rays passing through a crystal of the molecule. (Figure 8–21) zygote   Diploid cell produced by fusion of a male and female gamete. A fertilized egg.

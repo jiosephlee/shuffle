@@ -1,0 +1,181 @@
+oses have far-reaching medical significance, for they provide artificial models and a neurologic perspective of psychoses created by the manipulation of metabolic and by exogenous factors. It is appropriate that they are in the last chapter in a book about neurology.
+
+First described in arthritic patients being treated with cortisone, these syndromes are now occurring far less frequently than when corticosteroids were introduced into medical practice. The psychosis usually develops over a period of a few days after the patient has received the hormone for a week or more. The features are extremely variable. Depression and insomnia are the most frequent early symptoms, but some patients become elated, agitated, excited, and talkative, as though under pressure to speak, whereas others are mute; or the prevailing emotional response may be one of anxiety and panic. Thinking may be slightly illogical, tangential, or incoherent. Hallucinations and sensory misinterpretations may appear. However, clouding of the sensorium and disorientation, the hallmarks of deliria and the confusional psychoses, have been less prominent. Nevertheless, the state of awareness is not altogether normal, and at times the patient is frankly bewildered. If administration of the hormone is discontinued as soon as symptoms appear, the psychosis subsides but only gradually over several days to weeks, with complete recovery.
+
+In patients with Cushing disease, mental changes are frequent. In some patients there is a combination of affective disorder and impairment of cognitive function, usually apparent during mental status testing. Also, among athletes taking anabolic steroids, some develop affective and psychotic symptoms—reduced sleep, irritability, aggression, paranoid delusions, auditory hallucinations, and euphoria or depression. Mental changes in Addison disease are frequent but varied. Irritability, confusion, disorientation, and convulsions, with or without symptoms of hypoglycemia, are the main features.
+
+The mechanisms are not well understood. The mechanism of acute steroid psychosis is obscure. From the few available studies it has been learned that the occurrence of the psychosis is not related to the premorbid personality. Although the dosage of adrenocorticotropic hormone (ACTH) or corticosteroid has usually been high, there has been no definite correlation between the dosage and the occurrence, severity, and duration of psychosis. In a study of patients with systemic lupus erythematosus by Chau and Chi, 5 percent of patients became psychotic with steroid treatment, and for an obscure reason, only hypoalbuminemia was found by statistical analysis to be an associated factor. A history of anxiety or of a family history of psychiatric disease had only a marginal predictive value for steroid-induced psychosis. The notion held by many neurologists that dexamethasone is less frequently associated with psychosis than other corticosteroids is unproven. Lithium is often effective in controlling manic symptoms, allowing continuation of the corticosteroid therapy if necessary for the underlying medical condition. The dose is the same as for manic states (see Falk et al).
+
+A great deal has been said about the pervasive effects of abnormal thyroid function on all organs, including the neuromuscular apparatus and central nervous system. These are discussed in Chap. 39 with other acquired metabolic diseases of the nervous system, but mental changes with these endocrinopathies are not nearly as frequent or prominent as for adrenal disorders.
+
+The hyperthyroid patient shows minor changes in emotions and mentation. Restlessness, irritability, apprehension, emotional lability, and at times even agitation and a generalized chorea may occur. Either of 2 trends may be observed in the relatively rare thyrotoxic patient who develops a psychosis. There may be a mild manic state, with its characteristic increase in psychomotor activity, excessive talkativeness, and flight of ideas, or there may be depression, with its somber mood, weeping, and anxiety. Visual and auditory hallucinations may be present in both groups. Usually there is something more than simple mania or agitated depression, that is, some clouding of the sensorium with perplexity and confusion, suggestive of delirium. The condition is said to be related to the premorbid personality, some personality types being more vulnerable, but this is disputed. It can be stated that the psychiatric changes are not directly related to the severity of the thyrotoxicosis. Treatment of the hyperthyroidism does not result in prompt arrest of the psychic disorder; recovery usually takes place over a period of months. One must distinguish this illness from other types of recurrent psychoses that happen to be coincidental with or precipitated by hyperthyroidism and from the steroid-responsive encephalopathy called “Hashimoto encephalopathy” mentioned below.
+
+With myxedema there is a characteristic slowness and thickness of speech, drowsiness, hypothermia, mental dullness, listlessness and apathy, irritability, and sometimes suspiciousness. The patient may sleep most of the time, having to be awakened for meals. A disturbance of memory and the lack of genuine symptoms of depression, such as feelings of hopelessness and loss of self-esteem, help to distinguish the mental disorder of myxedema from that of a depressive illness. Nevertheless, unless one thinks of myxedema in cases of psychomotor retardation, the diagnosis will be missed. Reduced cerebral blood flow and metabolism have been found in myxedema; with specific therapy, these functions are restored to normal within 2 to 3 weeks.
+
+An entirely different type of mental disturbance characterized by intermittent delirium and stupor often associated with myoclonus and autoimmune in nature may occur in patients with thyroiditis (“Hashimoto encephalopathy,” Chap. 39). The illness is responsive to glucocorticoids. The diagnosis is confirmed by the finding of circulating antibodies to thyroglobulin and thyroid peroxidase but there are high rates of false positive tests, particularly in middle-aged an older women.
+
+Akbarian S, Kim JJ, Potkin SG, et al: Maldistribution of interstitial neurons in prefrontal white matter of the brains of schizophrenic patients. Arch Gen Psychiatry 53:425, 1996.
+
+American Foundation: Medical Research: A Mid-Century Survey. Boston, Little, Brown, 1956.
+
+American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders, 5th ed (DSM-5). Washington, DC, APA, 2013.
+
+Andreasen NC: Symptoms, signs, and diagnosis of schizophrenia. Lancet 346:477, 1995.
+
+Baldessarini RJ: Psychopharmacology. In: Nicholi AM Jr (ed): The Harvard Guide to Psychiatry, 3rd ed. Cambridge, MA, Belknap Harvard University Press, 1999, pp 444–496.
+
+Barta PE, Pearlson GD, Powers RE, et al: Auditory hallucinosis and smaller superior temporal gyral volume in schizophrenia. Am J Psychiatry 147:1457, 1990.
+
+Benes FM, Davidson J, Bird ED: Quantitative cytoarchitectural studies of the cerebral cortex of schizophrenics. Arch Gen Psychiatry 43:31, 1986.
+
+Bleuler E: Dementia Praecox or the Group of Schizophrenias. Zinkin J (trans). New York, International Universities Press, 1950.
+
+Boyd DA: Mental disturbances with childbearing. Am J Obstet Gynecol 43:148, 1942.
+
+Brockington I: Postpartum psychiatric disorders. Lancet 363:303, 2004.
+
+Carlsson A: The current status of the dopamine hypothesis of schizophrenia. Neuropsychopharmacology 1:179, 1988.
+
+Carpenter WT, Buchanan RW: Schizophrenia. N Engl J Med 330:681, 1994.
+
+Charlson FJ, Ferrari AJ, Santomauro DF, et al: Global Epidemiology and Burden of Schizophrenia: Findings From the Global Burden of Disease Study 2016. Schizophr Bull 44:1195, 2018.
+
+Chau SY, Chi CM: Factors predictive of corticosteroid psychosis in patients with systemic lupus erythematosus. Neurology 61:104, 2003.
+
+Corsellis JAN: Psychoses of obscure pathology. In: Blackwood W, Corsellis JAN (eds): Greenfield’s Neuropathology. London, Edward Arnold, 1976, pp 903–915.
+
+Cummings JL: Organic delusions. Br J Psychiatry 46:184, 1985.
+
+Cutting J: Memory in functional psychoses. J Neurol Neurosurg Psychiatry 42:1031, 1979.
+
+de Vries PJ, Honer WG, Kemp PM, et al: Dementia as a complication of schizophrenia. J Neurol Neurosurg Psychiatry 70:588, 2001.
+
+Dunlap CR: The pathology of the brain in schizophrenia. Res Publ Assoc Res Nerv Ment Dis 5:371, 1928.
+
+Egan MF, Goldber TE, Kolachana BS, et al: Effect of COMT Val108/158 Met genotype on frontal lobe dysfunction and risk for schizophrenia. Proc Natl Acad Sci U S A 98:6917, 2001.
+
+Falk WE, Manke MW, Poskanzer DC: Lithium prophylaxis of corticotropin-induced psychosis. JAMA 241:1011, 1979.
+
+Feighner JP, Robins E, Guze SB, et al: Diagnostic criteria for use in psychiatric research. Arch Gen Psychiatry 26:57, 1972.
+
+Flor-Henry P: Lateralized temporo-limbic dysfunction and psychopathology. Ann N Y Acad Sci 280:777, 1976.
+
+Freedman R: Schizophrenia. N Engl J Med 349:1738, 2003.
+
+Friston KJ, Liddle PF, Frith CD, et al: The left medial temporal region and schizophrenia: A PET study. Brain 115:367, 1992.
+
+Frith C: The pathology of experience. Brain 127:239, 2004.
+
+Goodwin DW, Guze SB: Psychiatric Diagnosis, 5th ed. New York, Oxford University Press, 1996.
+
+Harlow H: Learning to Love. New York, Jason Aronson, 1974.
+
+Harrison PJ: The neuropathology of schizophrenia. A critical review of the data and their interpretation. Brain 122:593, 1999.
+
+Harrison PJ, Geddes JR: Schizophrenia and the 5-HT2A receptor gene. Lancet 347:1274, 1996.
+
+Hertzig MA, Birch HC: Neurological organization in psychiatrically disturbed patients. Arch Gen Psychiatry 19:528, 1968.
+
+Honer WG, Thornton AE, Chen EY, et al: Clozapine alone versus clozapine and risperidone with refractory schizophrenia. N Engl J Med 354:472, 2006.
+
+Jablensky A: Epidemiology of schizophrenia: A European perspective. Schizophr Bull 12:52, 1986.
+
+Johnstone EC, Crow TJ, Frith CD, et al: The dementia of dementia praecox. Acta Psychiatr Scand 57:305, 1978.
+
+Jones P, Rodgers B, Murray R, Marmot M: Child developmental risk factors for adult schizophrenia in the British 1946 birth cohort. Lancet 344:1398, 1994.
+
+Kallmann FJ: The genetic theory of schizophrenia: An analysis of 691 twin index families. Am J Psychiatry 103:309, 1946.
+
+Kane JM, Marder SR: Psychopharmacologic treatment of schizophrenia. Schizophr Bull 19:287, 1993.
+
+Kennard M: Value of equivocal signs in neurological diagnosis. Neurology 10:753, 1960.
+
+Kraepelin E: Robertson GM (ed): Dementia Praecox and Paraphrenia. Barclay RM (trans). Edinburgh, UK, Livingstone, 1919.
+
+Langfeldt G: The prognosis in schizophrenia and the factors influencing the course of the disease. Acta Psychiatr Neurol Scand Suppl 13, 1937.
+
+Langfeldt G: Schizophrenia: Diagnosis and prognosis. Behavioral Science 14:173, 1969.
+
+Lawrie SM, Whalley H, Kestelman JN, et al: Magnetic resonance imaging of brain in people at high risk of developing schizophrenia. Lancet 353:30, 1999.
+
+Leucht S, Wahlbeck K, Hamman J, et al: New generation antipsychotics versus low-potency conventional antipsychotics: A systematic review and meta-analysis. Lancet 361:1581, 2003.
+
+Levin S, Jones A, Stark L, et al: Identification of abnormal patterns in eye movements of schizophrenic patients. Arch Gen Psychiatry 39:1125, 1982.
+
+Liddle PF: The symptoms of chronic schizophrenia: A re-examination of the positive-negative dichotomy. Br J Psychiatry 151:145, 1987.
+
+Liddle PF, Barnes TRE: Syndromes of chronic schizophrenia.
+
+Br J Psychiatry 157:558, 1990.
+
+Lieberman JA, First MB: Psychotic disorders. N Engl J Med 379:270, 2018.
+
+Lieberman JA, Stroup TS, McEvoy JP, et al: Effectiveness of antipsychotic drugs in patients with chronic schizophrenia. N Engl J Med 353:1209, 2005.
+
+Manschreck TC: Delusional disorder and shared psychotic disorder. In: Sadock BJ, Sadock VA (eds): Kaplan and Sadock’s Comprehensive Textbook of Psychiatry, 7th ed. Philadelphia, Lippincott Williams & Wilkins, 2000, pp 1243–1264.
+
+McClellan J, King M-C: Genomic analysis of mental illness. A changing landscape. JAMA 303:2523, 2011.
+
+Meltzer HY, Nash JF: Effects of antipsychotic drugs on serotonin receptors. Pharmacol Rev 43:587, 1991.
+
+Meyer A: Fundamental conceptions of dementia praecox. In: Collected Papers of Adolph Meyer. Vol 2. Baltimore, MD, Johns Hopkins University Press, 1950.
+
+Mooney H: Pathologic jealousy and psychochemotherapy. Br J Psychiatry 111:1023, 1965.
+
+Morrison J, Winokur G, Crowe R, Clancy J: The Iowa 500: The first follow-up. Arch Gen Psychiatry 29:677, 1973.
+
+Mortensen PB, Pedersen CB, Westergaard T, et al: Effects of family history and place and season of birth on the risk of schizophrenia. N Engl J Med 340:603, 1999.
+
+Pearlson GD: Neurobiology of schizophrenia. Ann Neurol 48:556, 2000.
+
+Ray WA, Chung CP, Murray KT, et al: Atypical antipsychotic drugs and the risk of sudden death. N Engl J Med 360:225, 2009.
+
+Robins E, Guze SB: Establishment of diagnostic validity in psychiatric illness: Its application to schizophrenia. Am J Psychiatry 126:983, 1970.
+
+Rosanoff AJ: Manual of Psychiatry. New York, Wiley, 1920.
+
+Rosenthal D, Wender PH, Kety SS, et al: Parent-child relationships and psychopathologic disorder in the child. Arch Gen Psychiatry 32:466, 1975.
+
+Sabri O, Ekworth R, Schreckenberger M, et al: Correlation of positive symptoms exclusively to hyperperfusion or hypoperfusion of cerebral cortex in never-treated schizophrenics. Lancet 349:1735, 1997.
+
+Schneider K: Clinical Psychopathology. Hamilton MW (trans). New York, Grune & Stratton, 1959.
+
+Seidman LJ: Schizophrenia and brain dysfunction: An integration of recent neurodiagnostic findings. Psychol Bull 94:195, 1983.
+
+Shenton ME, Kikinis R, Jolesz FA, et al: Abnormalities of the left temporal lobe and thought disorder in schizophrenia. N Engl J Med 327:604, 1992.
+
+Silbersweig DA, Stern E, Frith C, et al: A functional neuroanatomy of hallucinations in schizophrenia. Nature 378:176, 1995.
+
+Spielmeyer W: The problem of the anatomy of schizophrenia.
+
+J Nerv Ment Dis 72:241, 1930.
+
+Stevens JR: An anatomy of schizophrenia? Arch Gen Psychiatry 29:177, 1973.
+
+Stewart DE: Depression during pregnancy. N Engl J Med 365:1605, 2011.
+
+Suddath RL, Christison GW, Torrey EF, et al: Anatomical abnormalities in the brains of monozygotic twins discordant for schizophrenia. N Engl J Med 322:789, 1990.
+
+Taylor MA: Schneiderian first-rank symptoms and clinical prognostic features in schizophrenia. Arch Gen Psychiatry 26:64, 1972.
+
+Tsuang MT, Faraone SV, Green AI: Schizophrenia and other psychotic disorders. In: Nicholi AM Jr (ed): The Harvard Guide to Psychiatry, 3rd ed. Cambridge, MA, Belknap Harvard University Press, 1999, pp 240–280.
+
+Tucker CJ, Campion EW, Silberfarb PM: Sensorimotor functions and cognitive disturbance in psychiatric patients. Am J Psychiatry 132:17, 1975.
+
+Waddington JL: Schizophrenia: Developmental neuroscience and pathobiology. Lancet 341:531, 1993.
+
+Weinberger DR, Berman KF, Zec RF: Physiologic dysfunction of the dorsolateral prefrontal cortex in schizophrenia: Regional cerebral blood flow evidence. Arch Gen Psychiatry 43:114, 1986.
+
+Weinberger DR, Torry EF, Neophytides AN, Wyatt RJ: Lateral cerebral ventricular enlargement in chronic schizophrenia. Arch Gen Psychiatry 36:735, 1979.
+
+Williams J, Spurlock G, McGuffin P, et al: Association between schizophrenia and T102C polymorphism of the 5-hydroxytryptamine type 2a-receptor gene. Lancet 347:1294, 1996.
+
+Winokur G: Delusional disorder (paranoia). Compr Psychiatry 18:511, 1977.
+
+Winokur G, Tsuang M: The Iowa 500: Suicide in mania, depression and schizophrenia. Am J Psychiatry 132:650, 1975.
+
+Woo TU, Whitehead RE, Melchitzky DS, et al: A subclass of prefrontal gamma-aminobutyric acid axon terminals are selectively altered in schizophrenia. Proc Natl Acad Sci USA 95:5341, 1998.
+
+Woods BT: Neurologic soft signs in psychiatric disorders. In: Joseph AB, Young RR (eds): Movement Disorders in Neurology and Neuropsychiatry. Cambridge, MA, Blackwell, 1992, pp 438–448.
+
+Chapter  49    Schizophrenia, Delusional, and Paranoid States 
