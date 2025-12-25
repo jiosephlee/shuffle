@@ -26,14 +26,15 @@ mkdir -p logs
 
 python train.py \
     --condition "$CONDITION" \
-    --model_id allenai/Olmo-3-1025-7B \
+    --model_id allenai/OLMo-2-1124-7B \
     --per_device_train_batch_size 16 \
-    --gradient_accumulation_steps 4 \
-    --num_train_epochs 5 \
+    --gradient_accumulation_steps 8 \
+    --num_train_epochs 25 \
     --learning_rate 2e-5 \
     --warmup_ratio 0.1 \
     --packing \
     --gradient_checkpointing \
+    --use_liger_kernel \
     --attn_implementation "flash_attention_2"
 
 echo "➤ DONE"

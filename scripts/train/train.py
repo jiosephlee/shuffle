@@ -12,6 +12,12 @@ from transformers import (
 from trl import SFTTrainer, SFTConfig
 from datasets import Dataset
 
+try:
+    import liger_kernel
+    is_liger_available = True
+except ImportError:
+    is_liger_available = False
+
 # Ensure scripts path is in sys.path
 sys.path.append('../../')
 sys.path.append('../')
@@ -59,6 +65,7 @@ def parse_args():
     parser.add_argument("--packing", action="store_true", help="Enable packing (and padding_free)")
     parser.add_argument("--attn_implementation", type=str, default="flash_attention_2", help="Attention implementation (e.g. flash_attention_2)")
     parser.add_argument("--gradient_checkpointing", action=argparse.BooleanOptionalAction, default=True, help="Enable gradient checkpointing")
+    parser.add_argument("--use_liger_kernel", action=argparse.BooleanOptionalAction, default=True, help="Enable Liger Kenel")
 
     return parser.parse_args()
 
@@ -170,8 +177,10 @@ def main():
         packing_strategy="wrapped",
         # padding_free=args.packing, 
         max_length=4096, # Context length
-        
+        sequential_sampling = True,
         # Strategies
+        gradient_checkpointing=args.gradient_checkpointing,
+        use_liger_kernel=args.use_liger_kernel and is_liger_available,
         logging_steps=1,
         save_strategy="no", # Always no as requested
         report_to="wandb" if not args.test else "none",
