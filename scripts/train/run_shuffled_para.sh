@@ -14,7 +14,7 @@ module load anaconda3
 module load cuda/12.8.1
 module load gcc/13.3.0
 source "$(conda info --base)/etc/profile.d/conda.sh"
-conda activate "$HOME/.conda/envs/finetuning"
+conda activate "$HOME/.conda/envs/finetuning_custom"
 
 # Default condition, can be overridden by passing an argument, e.g., sbatch run_experiment.slurm shuffled_para
 CONDITION=${1:-shuffled_para}
